@@ -1,6 +1,6 @@
 import scala.io.Source
 import scala.collection.immutable.HashMap
-import java.io._
+import java.io.{BufferedWriter, FileWriter}
 
 val cuisineMap = 
 Source.fromFile("YELP-Crawl-Run-2019-12-28T103701Z.csv", "ISO-8859-1").getLines.drop(1)
@@ -20,8 +20,18 @@ Source.fromFile("YELP-Crawl-Run-2019-12-28T103701Z.csv", "ISO-8859-1").getLines.
            else cuisineMapSoFar + (cuisine -> List[(String,String)]((nameAddr)))
          })
 
+
 val file = "cuisine_map.txt"
 val writer = new BufferedWriter(new FileWriter(file))
-for(c<-cuisineMap)
-  writer.write(c.toString + "\n=================================================================\n")
+for(c<-cuisineMap.toList.sortWith((t1,t2)=>t1._1<t2._1)){
+  val len = c._2.size
+  val cuisine = c._1
+  writer.write(raw"""$cuisine [$len]: """)
+  var i=1
+  for(r<-c._2){
+    if(i==len) writer.write(r.toString) else writer.write(r.toString+", ")
+    i+=1
+  }
+  writer.write("\n=================================================================\n")
+}
 writer.close()
