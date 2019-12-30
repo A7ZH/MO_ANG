@@ -21,6 +21,7 @@ Source.fromFile("YELP-Crawl-Run-2019-12-28T103701Z.csv", "ISO-8859-1").getLines.
          })
 
 
+//val file = "cuisine_map_neat.txt"
 val file = "cuisine_map.txt"
 val writer = new BufferedWriter(new FileWriter(file))
 for(c<-cuisineMap.toList.sortWith((t1,t2)=>t1._1<t2._1)){
@@ -33,6 +34,6 @@ for(c<-cuisineMap.toList.sortWith((t1,t2)=>t1._1<t2._1)){
     i+=1
   }
   writer.write("\n")
- // writer.write("\n=================================================================\n")
+//writer.write("\n=================================================================\n")
 }
 writer.close()
