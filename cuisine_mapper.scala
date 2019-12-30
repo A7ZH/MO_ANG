@@ -32,6 +32,7 @@ for(c<-cuisineMap.toList.sortWith((t1,t2)=>t1._1<t2._1)){
     if(i==len) writer.write(r.toString) else writer.write(r.toString+", ")
     i+=1
   }
-  writer.write("\n=================================================================\n")
+  writer.write("\n")
+ // writer.write("\n=================================================================\n")
 }
 writer.close()
