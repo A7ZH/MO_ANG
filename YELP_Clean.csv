@@ -1,660 +1,660 @@
-,Name,Address,Cusine
-0,Gyubee Japanese Grill - Dundas,157 Dundas St W,Japanese; Barbeque
-1,Indian Spice Room,717 Queen Street E,Vegetarian; Indian
-2,Olive + Lemon,3604 Major MacKenzie Dr W,Seafood; Pizza; Italian
-3,Pai Northern Thai Kitchen,18 Duncan Street,Thai
-4,Seven Lives Tacos Y Mariscos,69 Kensington Avenue,Mexican
-5,KINKA IZAKAYA ORIGINAL,398 Church St,Japanese; Pubs
-6,Banh Mi Boys,392 Queen Street W,Vietnamese; Sandwiches
-7,Richmond Station,1 Richmond Street W,Canadian (New)
-8,Byblos,11 Duncan Street,Mediterranean; Middle Eastern
-9,Bang Bang Ice Cream and Bakery,93a Ossington Avenue,Desserts; Ice Cream & Frozen Yogurt
-10,Khao San Road,11 Charlotte Street,Thai
-11,Ramen Isshin,421 College Street,Ramen
-12,Blaze Fast-Fired Pizza,10 Dundas Street East,Pizza; Salad; Fast Food
-13,Flame Food+Design,2197 Bloor Street W,Canadian (New); Turkish
-14,Ozzys Burgers Vaughan,3175 Rutherford Road,Burgers
-15,Spice Club Indian Cuisine,4532 Kingston Road,Indian
-16,Pearl Diver,100 Adelaide Street E,Seafood; Comfort Food; Breakfast & Brunch
-17,Fahrenheit Coffee,120 Lombard Avenue,Coffee & Tea
-18,The Stockyards,699 St. Clair Avenue W,American (Traditional); Barbeque; Burgers
-19,Mildreds Temple Kitchen,85 Hanna Avenue,Breakfast & Brunch; Canadian (New)
-20,Ripleys Aquarium of Canada,288 Bremner Blvd,Aquariums
-21,Scaramouche Restaurant Pasta Bar & Grill,1 Benvenuto Place,French; Bars
-22,JaBistro,222 Richmond Street W,Japanese; Sushi Bars
-23,Lee Restaurant,601 King Street W,Asian Fusion
-24,Katsuya,66 Gerrard Street E,Japanese; Asian Fusion
-25,Hokkaido Ramen Santouka,91 Dundas Street E,Ramen; Noodles
-26,Dönerland,217 Roncesvalles Avenue,Kebab; Mediterranean; Halal
-27,Olive + Lemon,3604 Major MacKenzie Dr W,Italian; Pizza; Seafood
-28,Gyubee Japanese Grill - Bloor,335 Bloor Street W,Barbeque; Japanese; Steakhouses
-29,Dönerland,217 Roncesvalles Avenue,Mediterranean; Kebab; Halal
-30,Eggspectation,483 Bay Street,Breakfast & Brunch; Juice Bars & Smoothies
-31,Alo Restaurant,163 Spadina Avenue,Bars; French
-32,Frescos Fish & Chips,201 Augusta Avenue,Fish & Chips; Chicken Wings; Sandwiches
-33,Tinuno,31 Howard Street,Filipino
-34,GB Hand-pulled Noodles,66 Edward Street,Chinese; Noodles
-35,CN Tower,301 Front St W,Landmarks & Historical Buildings; Observatories
-36,Bar Isabel,797 College Street,Spanish; Tapas Bars
-37,KINKA IZAKAYA ANNEX,559 Bloor St W,Japanese; Tapas/Small Plates; Pubs
-38,Wilbur Mexicana,552 King Street W,Mexican
-39,Banh Mi Boys,399 Yonge Street,Vietnamese; Asian Fusion
-43,Dönerland,217 Roncesvalles Avenue,Kebab; Halal; Mediterranean
-44,Juicy Dumpling,280 Spadina Ave,Dim Sum; Dumplings
-45,Ravi Soups,322 Adelaide Street W,Sandwiches; Soup
-46,Black Camel,4 Crescent Road,Sandwiches
-47,Adamson Barbecue,176 Wicksteed Avenue,Barbeque
-48,Mystic Muffin,113 Jarvis Street,Sandwiches; Middle Eastern; Coffee & Tea
-49,Saku Sushi,478 Queen Street W,Sushi Bars; Japanese
-50,Beerbistro,18 King Street E,Bistros; Beer Bar
-51,Descendant Detroit Style Pizza,1168 Queen Street E,Pizza
-52,BarChef,472 Queen Street W,Lounges; Cocktail Bars
-53,Emmas Country Kitchen,810 Saint Clair Avenue W,Breakfast & Brunch; Bakeries; Comfort Food
-54,Flame Food+Design,2197 Bloor Street W,Turkish; Canadian (New)
-55,Gyubee Japanese Grill - Bloor,335 Bloor Street W,Japanese; Barbeque; Steakhouses
-57,Olive + Lemon,3604 Major MacKenzie Dr W,Pizza; Seafood; Italian
-58,Soma Chocolatemaker,443 King Street West,Chocolatiers & Shops; Ice Cream & Frozen Yogurt; Desserts
-59,Sansotei,650 Yonge Street,Ramen
-60,The Keg Steakhouse + Bar - Mansion,515 Jarvis Street,Steakhouses; Bars; Seafood
-61,AGO - Art Gallery of Ontario,317 Dundas Street W,Art Museums
-62,Tsujiri,147 Dundas Street,Tea Rooms; Ice Cream & Frozen Yogurt; Desserts
-63,Tibet Kitchen,1544 Queen Street W,Himalayan/Nepalese
-64,Café Polonez,195 Roncesvalles Avenue,Polish
-65,Beast Restaurant,96 Tecumseth Street,Canadian (New); Breakfast & Brunch
-66,Lamesa Filipino Kitchen,634 St Clair Avenue W,Filipino
-67,Royal Ontario Museum,100 Queen's Park,Museums
-68,Gyubee Japanese Grill - Dundas,157 Dundas St W,Barbeque; Japanese
-71,Aanch Modernistic Indian Cuisine,259 Wellington St W,Indian
-72,Ikkousha Ramen,249 Queen Street W,Ramen
-73,Japango,122 Elizabeth Street,Sushi Bars
-74,Wow Sushi,11 Charles Street,Sushi Bars
-75,Nadege,780 Queen Street W,Desserts; Macarons; Patisserie/Cake Shop
-76,Aloette,163 Spadina Avenue,French; Bistros; Diners
-77,Le Sélect Bistro,432 Wellington Street W,French; Coffee & Tea; Breakfast & Brunch
-78,Mira,420A Wellington Street W,Peruvian
-79,Salad King Restaurant,340 Yonge Street,Thai
-80,Yuzu No Hana,236 Adelaide Street W,Sushi Bars; Japanese
-81,Hibiscus,238 Augusta Avenue,Vegan; Vegetarian; Gluten-Free
-82,Olive + Lemon,3604 Major MacKenzie Dr W,Pizza; Italian; Seafood
-85,Dönerland,217 Roncesvalles Avenue,Halal; Kebab; Mediterranean
-86,Grand Electric,1330 Queen Street W,Bars; Mexican
-87,Sabai Sabai Kitchen and Bar,81 Bloor Street E,Laotian; Thai; Bars
-88,Bannock,401 Bay Street,Canadian (New); Sandwiches; Breakfast & Brunch
-89,Poke Guys,112 Elizabeth Street,Hawaiian; Poke
-90,Evas Original Chimneys,454 Bloor Street W,Desserts; Bakeries; Ice Cream & Frozen Yogurt
-91,Bar Raval,505 College Street,Spanish; Tapas/Small Plates; Cocktail Bars
-92,Cluck Clucks,222 The Esplanade,Chicken Shop; Comfort Food; Sandwiches
-93,Barque Smokehouse,299 Roncesvalles Avenue,Barbeque; Smokehouse
-94,Ruby Watchco,730 Queen Street E,Canadian (New)
-95,Nuit Social,1168 Queen Street W,Cocktail Bars; Modern European; Canadian (New)
-97,Gyubee Japanese Grill - Bloor,335 Bloor Street W,Barbeque; Steakhouses; Japanese
-100,The Carbon Bar,99 Queen Street E,Barbeque; Bars; American (Traditional)
-101,La Bella Managua,872 Bloor Street W,Latin American; Nicaraguan
-102,Agio,1351 St Clair Avenue W,Italian
-103,Snakes & Lattes Annex,600 Bloor Street W,Bars; Cafes
-104,La Carnita,501 College Street,Mexican
-105,Sukhothai,274 Parliament Street,Thai; Noodles
-106,The Keg Steakhouse + Bar,165 York Street,Steakhouses; Bars; Seafood
-107,Planta Yorkville,1221 Bay Street,Tapas/Small Plates; Pizza; Cocktail Bars
-108,Pow Wow Cafe,213 Augusta Avenue,Canadian (New); Cafes
-109,Burrito Boyz,224 Adelaide Street W,Mexican
-111,Gyubee Japanese Grill - Bloor,335 Bloor Street W,Steakhouses; Japanese; Barbeque
-113,RYUS Noodle Bar,669 Queen Street W,Ramen
-114,Momofuku Noodle Bar,190 University Avenue,Ramen; Noodles
-115,Hanmoto,2 Lakeview Avenue,Japanese; Asian Fusion
-116,Ryus Noodle Bar,786 Broadview Avenue,Ramen
-117,The Haam,342 Adelaide St W,Japanese; Mexican; Sushi Bars
-118,Swatow Restaurant,309 Spadina Avenue,Chinese
-119,FIKA,28 Kensington Avenue,Coffee & Tea; Sandwiches; Desserts
-120,The Burgers Priest,463 Queen Street W,Burgers
-121,Moon Bean Coffee Company,30 St. Andrew Street,Coffee & Tea; Coffee Roasteries
-122,Icha Tea,235 Spadina Avenue,Coffee & Tea; Desserts
-123,Tofu Village - House of Soon Tofu,681 Bloor Street W,Korean
-127,Gyubee Japanese Grill - Bloor,335 Bloor Street W,Japanese; Steakhouses; Barbeque
-128,White Brick Kitchen,641 Bloor Street W,Breakfast & Brunch; Comfort Food
-129,Rustle & Still Café,605 Bloor Street W,Coffee & Tea; Vietnamese
-130,Takht-e Tavoos,1120 College Street,Persian/Iranian
-131,Assembly Chefs Hall,111 Richmond Street W,Food Court
-132,Pizzeria Libretto Danforth,550 Danforth Avenue,Pizza; Italian
-133,Yummy Yummy Dumplings,79 Huron Street,Chinese; Dumplings; Soup
-134,Levetto,68 Sudbury Street,Italian; Pizza; Salad
-135,La Palette,492 Queen Street W,French; Desserts; Bars
-136,Summers Ice Cream,101 Yorkville Avenue,Ice Cream & Frozen Yogurt; Desserts
-137,La Cubana,92 Ossington Avenue,Cuban; Desserts; Sandwiches
-142,Bar Buca,75 Portland Street,Bars; Italian; Breakfast & Brunch
-143,The Poke Box,36 Toronto Street,Salad; Poke
-144,Good Fork,1550 Dundas St W,Canadian (New)
-145,Chubbys Jamaican Kitchen,104 Portland Street,Caribbean
-146,Josos,202 Davenport Road,Seafood
-147,Sugo,1279 Bloor Street W,Italian; Sandwiches; Cocktail Bars
-148,Almond Butterfly Cafe & Bakeshop,100 Harbord Street,Bakeries; Cafes; Breakfast & Brunch
-149,Korean Village Restaurant,628 Bloor Street W,Korean
-150,Scaddabush Italian Kitchen & Bar,382 Yonge Street,"Wine Bars; Italian; Beer, Wine & Spirits"
-151,Plentea,1205 Queen Street W,Coffee & Tea; Tea Rooms
-156,Cluny Bistro & Boulangerie,35 Tank House Lane,French; Wine Bars; Cocktail Bars
-157,Mengrai Thai,82 Ontario Street,Thai; Noodles
-158,Sassafraz,100 Cumberland Street,French
-159,Smoque N Bones,869 Queen Street W,Barbeque
-160,Seor Ak San,357 Spadina Avenue,Korean
-161,The Hogtown Vegan,1056 Bloor St. W,Vegan
-162,Tachi,111 Richmond Street W,Sushi Bars; Japanese
-163,Banjara Indian Cuisine,796 Bloor Street W,Indian
-164,Apiecalypse Now!,735 Bloor Street W,Pizza; Vegan; Ice Cream & Frozen Yogurt
-165,Trattoria Nervosa,75 Yorkville Avenue,Italian; Pizza; Salad
-170,Veghed,1199 Dundas Street W,Vegan; Vegetarian
-171,Tandem Coffee,368 King Street E,Coffee & Tea
-172,Odd Seoul,90 Ossington Avenue,Korean; Dive Bars; Asian Fusion
-173,Okonomi House Restaurant,23 Charles Street W,Japanese
-174,HotBlack Coffee,245 Queen Street W,Coffee & Tea; Cafes; Breakfast & Brunch
-175,Egg Bae,189 Augusta Avenue,Breakfast & Brunch
-176,Imm Thai Kitchen,651 College Street,Thai; Noodles
-177,Indie Ale House,2876 Dundas Street W,Breweries; Gastropubs; Pizza
-178,Makkal Chon,1979 Lawrence Avenue E,Korean
-179,STACK,3265 Yonge Street,Barbeque
-184,Schnitzel Queen,211 Queen Street E,German; Sandwiches
-185,White Lily Diner,678 Queen Street E,Breakfast & Brunch; Diners
-186,Casa Loma,1 Austin Terrace,Museums
-187,Completo,5 Coady Avenue,Latin American; Fast Food; Comfort Food
-188,Mr.Tonkatsu,520 Bloor Street W,Japanese
-189,The Burgers Priest,1636 Queen Street E,Burgers
-190,Earls Kitchen + Bar,150 King Street West,Canadian (New); Cocktail Bars
-191,Barberians Steak House,7 Elm Street,Steakhouses
-192,Wongs Ice Cream & Store,617 Gerrard Street E,Ice Cream & Frozen Yogurt; Desserts
-193,Levetto,382 Spadina Avenue,Pizza; Italian; Salad
-194,Indian Spice Room,717 Queen Street E,Indian; Vegetarian
-198,LUnita Enoteca,134 Avenue Road,Italian
-199,Little Pebbles,160 Baldwin Street,Desserts; Coffee & Tea
-200,Yummy Korean Food Restaurant,620 Bloor Street W,Korean
-201,Sukho Thai,52 Wellington Street E,Thai
-202,Como En Casa,565 Yonge Street,Mexican
-203,Chatime - Dundas,132 Dundas Street W,Coffee & Tea
-204,Union,72A Ossington Avenue,French; Wine Bars
-205,King Taps,Located in First Canadian Place,Lounges; Canadian (New); Breakfast & Brunch
-206,Cafe Crepe,246 Queen Street W,Creperies; Breakfast & Brunch; Coffee & Tea
-207,Salad Days,2 Bloor Street W,Food Stands; Salad
-212,Homemade Ramen,263 Spadina Avenue,Chinese; Noodles; Ramen
-213,Honest Weight,2766 Dundas Street W,Seafood; Seafood Markets
-214,Allan Gardens,19 Horticultural Avenue,Parks
-215,Sweet Jesus,106 John Street,Desserts; Ice Cream & Frozen Yogurt; Coffee & Tea
-216,Messini Authentic Gyros,445 Danforth Avenue,Greek; Sandwiches
-217,The Irv Gastro Pub,195 Carlton Street,Burgers; Gastropubs
-218,Soma Chocolatemaker,32 Tank House Lane,Chocolatiers & Shops; Ice Cream & Frozen Yogurt; Desserts
-219,Chadwicks,268 Howland Avenue,Canadian (New); Comfort Food
-220,Veggie DLight,160 Baldwin Street,Caribbean; Vegan; Gluten-Free
-221,KINTON RAMEN,51 Baldwin Street,Ramen; Noodles
-222,Dönerland,217 Roncesvalles Avenue,Mediterranean; Halal; Kebab
-223,Gyubee Japanese Grill - Bloor,335 Bloor Street W,Steakhouses; Barbeque; Japanese
-226,Woodlot Restaurant,293 Palmerston Avenue,Vegetarian; Canadian (New); Comfort Food
-227,Pizzeria Libretto,155 University Avenue,Pizza; Italian
-228,Logas Corner,216C Close Avenue,Himalayan/Nepalese
-229,Fresh On Bloor,326 Bloor Street W,Vegan; Salad; Soup
-230,iHalo Krunch,831 Queen Street W,Ice Cream & Frozen Yogurt
-231,Si Lom Thai Bistro,534 Church Street,Thai; Noodles; Seafood
-232,Le Gourmand,152 Spadina Avenue,Coffee & Tea; Breakfast & Brunch; Cafes
-233,Forno Cultura,609 King Street W,Bakeries; Coffee & Tea
-234,Tacos El Asador,689 Bloor Street W,Mexican; Latin American
-235,Koh Lipe Thai Kitchen,35 Baldwin Street,Thai
-240,Crepe TO,52 Church Street,Creperies
-241,Early Bird Coffee & Kitchen,613 Queen Street W,Coffee & Tea; Breakfast & Brunch
-242,Raku,456 Queen St W,Japanese; Noodles
-243,The Dirty Bird Chicken + Waffles,79 Kensington Avenue,Chicken Shop; Waffles; Burgers
-244,Ottos Bierhalle,1087 Queen Street W,German
-245,Le Baratin,1600 Dundas Street. W,French
-246,Live Organic Food Bar,264 Dupont Street,Live/Raw Food; Organic Stores; Juice Bars & Smoothies
-247,Kintako Japanese Restaurant,214 Laird Drive,Japanese
-248,Rolltation,207 Dundas Street W,Sushi Bars; Salad; Poke
-251,Zaad,348 Bloor Street West,Middle Eastern
-253,Carisma,15 Toronto Street,Italian
-254,The Caledonian,856 College Street,Pubs; Scottish; Whiskey Bars
-255,California Sandwiches,244 Claremont Street,Sandwiches
-256,Jules Bistro,147 Spadina Avenue,French
-257,The Wren,1382 Danforth Avenue,Bars; American (Traditional)
-258,Pukka,778 St. Clair Avenue W,Indian
-259,Butter Avenue,477 Queen Street W,Desserts; Bakeries; Macarons
-260,Oyster Boy,872 Queen Street W,Seafood
-261,Jimmys Coffee,107 Portland Street,Coffee & Tea
-262,The Hole In the Wall,2867 Dundas Street W,Pubs; Canadian (New)
-267,Le Petit Déjeuner,191 King Street E,Breakfast & Brunch; Belgian
-268,House of Gourmet,484 Dundas St W,Chinese
-269,Tabule Restaurant,2009 Yonge Street,Middle Eastern; Vegan; Vegetarian
-270,KINTON RAMEN,396 Church Street,Ramen; Noodles
-271,Jimmys Coffee,191 Baldwin Street,Coffee & Tea
-272,Toronto Island,Toronto Island,Parks; Beaches
-273,COO Café Bread or Rice,1049 Bloor Street W,Japanese; French
-274,FUEL+,471 Church Street,Coffee & Tea; Organic Stores; Juice Bars & Smoothies
-275,Jimmys Coffee,84 Gerrard Street W,Coffee & Tea
-276,Arctic Bites,21 Baldwin Street,Ice Cream & Frozen Yogurt
-280,Kiin,326 Adelaide Street W,Thai
-281,Athens Pastries,509 Danforth Avenue,Bakeries; Mediterranean
-282,Voodoo Child,388 College Street,Coffee & Tea; Cocktail Bars
-283,Bosk,Located in Shangri-La Hotel,Canadian (New)
-284,Local Liberty Village,171 E Liberty Street,Sports Bars; Breakfast & Brunch
-285,The Fish Store & Sandwiches,657 College Street,Sandwiches; Seafood
-286,Tabülè Middle Eastern Cuisine,810 Queen Street E,Middle Eastern
-287,Mangia & Bevi,260 King Street E,Italian; Pizza
-288,Epicure City BOM,72 Gerrard Street W,Korean
-289,Nodo Restaurant,2885 Dundas Street West,Italian
-294,Quantum Coffee,460 King Street W,Coffee & Tea
-295,Loose Moose,146 Front Street West,Sports Bars; Gastropubs; Canadian (New)
-296,Fabarnak Community Cafe and Catering,519 Church Street,Cafes; Caterers
-297,Copacabana Brazilian Steak House,150 Eglinton Avenue E,Brazilian; Steakhouses
-298,Lahore Tikka House,1365 Gerrard Street E,Halal; Pakistani
-299,Little India Restaurant,255 Queen Street W,Indian; Buffets
-300,Rudy,619 College Street,Burgers; Fast Food; Sandwiches
-301,Mothers Dumplings,421 Spadina Avenue,Chinese
-302,Gyu-Kaku Japanese BBQ,81 Church Street,Japanese; Barbeque; Asian Fusion
-303,Onnki Donburi,40 Hayden Street,Japanese
-306,"Ay Caramba, Eh",65-3540 Rutherford Road,Mexican; Latin American
-307,Subway,671 Danforth Avenue,Fast Food; Sandwiches
-308,Salad House,13 Hayden Street,Salad
-309,Simones Caribbean Restaurant,596 Danforth Avenue,Caribbean
-310,Café Boulud,Located in Four Seasons Toronto,Cafes; Desserts; French
-311,Sala Modern Thai Kitchen & Bar,1262 Danforth Avenue,Thai; Asian Fusion
-312,Akira Back,80 Blue Jays Way,Japanese; Korean; Asian Fusion
-313,Grey Gardens,199 Augusta Avenue,Wine Bars; Canadian (New)
-314,Cocktail Bar,923 Dundas St W,Bars
-315,Campechano Taquería,504 Adelaide Street W,Mexican
-316,de Mello Palheta,2489 Yonge Street,Coffee & Tea; Bakeries; Desserts
-317,Boxcar Social,1208 Yonge Street,Wine Bars; Coffee & Tea
-321,Supernova Ballroom,330 Bay Street,Cocktail Bars
-322,Farmr Eatery & Catering,140 The Esplanade,Canadian (New); Gluten-Free; Vegetarian
-323,Gio Ranas Really Really Nice Restaurant,1220 Queen Street East,Italian; Tapas/Small Plates
-324,Cest What,67 Front Street E,Breweries; Music Venues; Canadian (New)
-325,Himalayan Kitchen,1526 Queen Street W,Indian; Himalayan/Nepalese
-326,Beach Hill Smokehouse,172 Main Street S,Barbeque; Desserts; Sandwiches
-327,Real Sports,15 York Street,Sports Bars; Canadian (New)
-328,Aunties & Uncles,74 Lippincott Street,Breakfast & Brunch
-329,Zezafoun Syrian Cuisine,4 Manor Road E,Syrian; Middle Eastern; Arabian
-330,Raijin Ramen,24 Wellesley Street W,Ramen; Noodles; Soup
-331,Adega Restaurante,33 Elm St,Portuguese; Spanish
-332,Tashi Delek Cafe,223 Jameson Avenue,Himalayan/Nepalese; Cafes
-335,Buddhas Vegan Foods,666 Dundas Street W,Vegetarian; Chinese; Vegan
-336,Avenue Open Kitchen,7 Camden Street,Diners; Delis; Sandwiches
-337,ImPerfect Fresh Eats,318 Adelaide Street W,Salad; Juice Bars & Smoothies; Acai Bowls
-338,Big Trouble Pizza,235 Spadina Avenue,Pizza
-339,Wafels & More,237 Augusta Avenue,Breakfast & Brunch; Waffles; Belgian
-340,Kitten and the Bear,1414 Dundas Street W,Coffee & Tea; Specialty Food
-341,Balzacs Distillery District,1 Trinity Street,Coffee & Tea; Venues & Event Spaces; Coffee Roasteries
-342,Patois Toronto,794 Dundas Street W,Chinese; Asian Fusion; Caribbean
-343,Mon K Patisserie,1040 Coxwell Avenue,Coffee & Tea; Bakeries
-344,Momo Hut & Gardens,401 Danforth Avenue,Himalayan/Nepalese
-349,7 West Cafe,7 Charles Street W,Italian; Breakfast & Brunch; Bars
-350,Bean and Baker Malt Shop,326 Harbord Street,Ice Cream & Frozen Yogurt; Coffee & Tea; Patisserie/Cake Shop
-351,Queen Mother Cafe,208 Queen Street W,Asian Fusion; Thai
-352,Mamakas Taverna,80 Ossington Avenue,Greek; Mediterranean
-353,Good Hombres,374 Bathurst Street,Mexican
-354,Ricardas Toronto,134 Peter St,Mediterranean; Italian; Breakfast & Brunch
-355,Sakawa Coffee & Japanese Restaurant,867 Danforth Ave,Japanese
-356,Mezes,456 Danforth Avenue,Greek; Mediterranean
-357,Porchetta & Co,545 King Street W,Sandwiches
-358,NEO COFFEE BAR,161 Frederick St,Coffee & Tea; Bakeries
-359,Olive + Lemon,3604 Major MacKenzie Dr W,Seafood; Italian; Pizza
-363,Mother India,1456 Queen Street W,Indian
-364,Town Crier Pub,115 John St,Pubs; German
-365,Fusaros Kitchen,147 Spadina Avenue,Italian; Pizza
-366,Dukes Refresher + Bar,382 Yonge Street,Burgers; American (Traditional); Beer Bar
-367,Our Spot,180 Baldwin Street,Breakfast & Brunch; Coffee & Tea
-368,Fat Pasha,414 Dupont Street,Middle Eastern
-369,Maker Pizza,59 Cameron Street,Pizza
-370,Fudao noodle house,358 Spadina ave,Chinese; Noodles; Fast Food
-371,Dark Horse Espresso,215 Spadina Avenue,Coffee & Tea
-372,Bitondos Pizzeria,11 Clinton Street,Pizza; Italian
-377,La Vecchia Ristorante,2405A Yonge Street,Italian; Seafood; Venues & Event Spaces
-378,Terroni,720 Queen Street W,Italian; Pizza
-379,Prohibition Gastrohouse - Queen,696 Queen Street E,Bars; American (Traditional)
-380,The Shameful Tiki Room,1378 Queen W,Tiki Bars
-381,Piedmont Coffee Bar,66 Isabella Street,Coffee & Tea
-382,Wandas Pie In The Sky,287 Augusta Avenue,Bakeries; Desserts; Coffee & Tea
-383,Canis,746 Queen Street W,Canadian (New); Wine Bars
-384,Kevins Taiyaki,675 Bloor Street,Specialty Food; Asian Fusion; Japanese
-385,Light Cafe,23 Baldwin Street,Cafes
-386,Banh Mi Boys,2365 Yonge Street,Vietnamese; Asian Fusion
-391,Reposado Bar & Lounge,136 Ossington Avenue,Tapas/Small Plates; Music Venues; Cocktail Bars
-392,Pomegranate Restaurant,420 College Street,Middle Eastern; Persian/Iranian
-393,Lai Wah Heen,Located in DoubleTree by Hilton Hotel Toronto Downtown,Dim Sum
-394,Hothouse,35 Church Street,Italian; Bars; Venues & Event Spaces
-395,Graffiti Alley,513 Queen Street W,Public Art
-396,Pizzeria Via Mercanti,188 Augusta Avenue,Pizza; Italian
-397,Gregs Ice Cream,750 Spadina Avenue,Ice Cream & Frozen Yogurt
-398,Sushi & BBbop,384 Yonge Street,Sushi Bars; Korean; Japanese
-399,Piano Piano,88 Harbord Street,Italian; Pizza
-400,Foxley Bistro and Bar,207 Ossington Avenue,Asian Fusion; Tapas Bars
-405,Black Canary Espresso Bar,329 Yonge Street,Coffee & Tea
-406,Busters Sea Cove,93 Front Street E,Seafood
-407,Dirty Food Eatery,3070 Dundas Street W,Breakfast & Brunch; Comfort Food
-408,Frankies,994 Queen Street W,Breakfast & Brunch; Diners
-409,Mos Mos,25 King Street W,Cafes; Coffee & Tea
-410,Kit Kat Italian Bar & Grill,297 King Street W,Italian; Mediterranean
-411,Dessert Lady Café,12 Cumberland St,Bakeries; Desserts
-412,Evviva Breakfast & Lunch - Downtown Toronto,25 Lower Simcoe,Breakfast & Brunch
-413,Rooster Coffee House,343 King Street E,Coffee & Tea; Sandwiches
-414,Sud Forno,716 Queen Street W,Italian; Bakeries; Sandwiches
-419,Utopia Café & Grill,586 College St,Tex-Mex; Burgers
-420,Gushi Japanese Street Food,707 Dundas Street W,Street Vendors; Japanese
-421,Lee Chen Asian Bistro,214 King Street W,Dim Sum; Asian Fusion
-422,Ozzys Burgers,66 Nassau St,Burgers; Sandwiches; Fast Food
-423,Chicas Nashville Hot Chicken,2853 Dundas Street W,Chicken Shop; Southern
-424,The Lockhart,1479 Dundas Street W,Bars
-425,Holy Chuck,1450 Yonge Street,Burgers
-426,Souk Tabule,494 Front Street E,Middle Eastern; Salad; Soup
-427,Khmer Thai Restaurant,1018 St Clair Avenue W,Thai; Cambodian
-428,JOEY Yorkdale,305 - B 3401 Dufferin St,Canadian (New); Lounges
-432,Pinkys Ca Phe,53 Clinton Street,Vietnamese
-433,Trinity Bellwoods Park,155 Crawford Street,Parks
-434,Bonjour Brioche,812 Queen Street E,Breakfast & Brunch; French
-435,Te Aro,983 Queen Street E,Coffee & Tea; Cafes
-436,Carousel Bakery,93 Front Street E,Sandwiches; Bakeries
-437,Luma,350 King Street W,Canadian (New); Lounges
-438,Ill Be Seeing You,747 Queen Street E,Cocktail Bars; Comfort Food
-439,Nu Bügel,240 Augusta Avenue,Bagels
-440,The Shore Club - Toronto,155 Wellington Street W,Seafood; Steakhouses; Cocktail Bars
-441,Restaurant La Banane,227 Ossington Avenue,French; Seafood; Bistros
-446,Dolce Gelato,697 College Street,Ice Cream & Frozen Yogurt; Desserts; Coffee & Tea
-447,Museum Tavern,208 Bloor Street W,American (Traditional)
-448,Guu Izakaya Toronto,1314 Queen Street W,Japanese; Tapas Bars; Sushi Bars
-449,Rhum Corner,926 Dundas Street W,Caribbean; Salad; Cocktail Bars
-450,Trattoria Taverniti,591 College Street,Italian; Pizza
-451,Michaels on Simcoe,100 Simcoe Street,Steakhouses; Italian; Seafood
-452,Tokyo Kitchen,20 Charles Street E,Japanese
-453,Bobbette & Belle,1121 Queen Street E,Caterers; Bakeries; Desserts
-454,Crown Princess Fine Dining,1033 Bay Street,Dim Sum
-455,Asian Legend,418 Dundas Street W,Dim Sum
-460,Stout Irish Pub,221 Carlton Street,Pubs; Irish
-461,The Good Son,1096 Queen Street W,Pizza; Cocktail Bars
-462,Communists Daughter,1149 Dundas Street W,Bars
-463,Chino Locos Original,4 Greenwood Avenue,Mexican
-464,Cibo Wine Bar,522 King Street W,Wine Bars; Italian
-465,Smokes Poutinerie,218 Adelaide Street W,Fast Food; Poutineries
-466,Frans Restaurant,20 College Street,Diners; Breakfast & Brunch; American (Traditional)
-467,Thai Country Kitchen,412 Spadina Ave,Thai; Noodles
-468,Utsav,69 Yorkville Ave,Food Delivery Services; Indian
-469,Fahrenheit Coffee,529 Richmond Street W,Coffee & Tea
-474,Versus Coffee,70 Adelaide Street E,Coffee & Tea
-475,Tilt Arcade Bar,824 Dundas Street West,Arcades; Bars
-476,Pho Hung,350 Spadina Avenue,Vietnamese
-477,Bar Sybanne,229 Ossington Avenue,Mediterranean; Moroccan; Middle Eastern
-478,Northwood,815 W Bloor Street,Cafes; Cocktail Bars
-479,Doomies Toronto,1346 Queen St W,Vegan; Vegetarian
-480,Pearl Harbourfront Chinese Cuisine,207 Queens Quay W,Dim Sum; Seafood; Noodles
-481,Death in Venice Gelato,1418 Dundas West,Ice Cream & Frozen Yogurt
-482,Istanbul Cafe & Espresso Bar,174 Eglinton Avenue E,Coffee & Tea; Turkish; Internet Cafes
-483,Ruths Chris Steak House,145 Richmond Street W,Steakhouses; Seafood; Lounges
-488,Fieramosca,36A Prince Arthur Avenue,Italian
-489,Suite 114,116 Dundas Street W,Cocktail Bars
-490,O.Noir,620 Church St,Canadian (New)
-491,The Lakeview,1132 Dundas Street W,Diners; Canadian (New)
-492,Poutinis House of Poutine,1112 Queen Street W,Fast Food; Poutineries
-493,Madras Masala,796 Bloor Street W,Indian
-494,Formocha,55 Eglinton Avenue E,Coffee & Tea
-495,W Burger Bar,10 College Street,Burgers; Breakfast & Brunch; Bars
-496,Carmen,922 Queen Street W,Spanish
-497,Tango Palace Coffee Company,1156 Queen Street E,Coffee & Tea
-502,When The Pig Came Home,3035 Dundas Street W,Delicatessen; Sandwiches
-503,Dutch Dreams,36 Vaughan Road,Ice Cream & Frozen Yogurt
-504,Sam James Coffee Bar,150 King Street W,Coffee & Tea
-505,The Keg Steakhouse & Bar,560 King Street W,Steakhouses; Bars
-506,Dimmi Bar & Trattoria,140 Cumberland St,Italian; Venues & Event Spaces
-507,Forget Me Not Cafe,883 Wilson Avenue,Vietnamese
-508,Bindia Indian Bistro,16 Market Street,Indian
-509,Barsa Taberna,26 Market Street,Tapas Bars
-510,The Oxley,121 Yorkville Avenue,Gastropubs
-511,To-ne Sushi,414 Queen Street W,Japanese; Sushi Bars; Asian Fusion
-516,Nathan Phillips Square,100 Queen Street W,Landmarks & Historical Buildings
-517,Carbonic Coffee,37 Baldwin Street,Coffee & Tea; Coffee Roasteries; Cafes
-518,Medieval Times Toronto,10 Dufferin Street,Dinner Theater; American (Traditional)
-519,Blu Ristorante,17 Yorkville Ave,Italian; Lounges
-520,Chabrol Restaurant,90 Yorkville Avenue,French
-521,Mr Pide,800 Danforth Avenue,Pizza; Turkish
-522,Burrito Bandidos,2 Grosvenor Street,Mexican
-523,Hot-Star,374A Yonge Street,Chicken Wings; Taiwanese; Fast Food
-524,Tokyo Sushi,33 St Joseph Street,Sushi Bars; Japanese
-525,The Tilted Dog Pub & Kitchen,424 Parliament Street,Sandwiches; Pubs
-530,Gyugyuya,177 Dundas Street W,Japanese; Fast Food
-531,KINTON RAMEN,402 Queen St W,Ramen
-532,Koyoi Restaurant & Bar,2 Irwin Avenue,Japanese; Bars
-533,Rolltation,2291 Yonge Street,Sushi Bars; Asian Fusion; Poke
-534,Omai Restaurant,3 Baldwin Street,Japanese
-535,Kupfert & Kim,100 King Street West,Vegetarian; Vegan; Gluten-Free
-536,Lake Inez,1471 Gerrard Street E,Bars; Asian Fusion
-537,The Keg Steakhouse + Bar - Esplanade,26 The Esplanade,Steakhouses; Bars; Seafood
-538,Nami Restaurant,55 Adelaide Street E,Japanese; Seafood
-539,La Chilaca Taqueria,214 Augusta Avenue,Mexican
-540,Olive + Lemon,3604 Major MacKenzie Dr W,Italian; Seafood; Pizza
-544,Napoli Centrale,964 Bathurst Street,Italian; Pizza
-545,Fuwa Fuwa Japanese Pancakes,2471 Yonge Street,Desserts; Patisserie/Cake Shop; Bakeries
-546,The Burgers Priest,3397 Yonge Street,Burgers
-547,Sheherzade Persian Grill And Dizi,422 College St W,Persian/Iranian
-548,Weslodge Bar & Grill,480 King Street W,Canadian (New); Cocktail Bars
-549,One Love Vegetarian,854 Bathurst Street,Caribbean; Vegetarian
-550,Sake Bar Kushi,257 Eglinton Avenue W,Japanese; Sushi Bars; Tapas Bars
-551,JINYA Ramen Bar,399 Church Street,Ramen
-552,Bazara Asian Cuisine,188 Ossington Avenue,Asian Fusion; Sushi Bars
-553,Cinco Mexican Restaurant,131 Roncesvalles Ave,Mexican
-558,Uncle Tetsus Japanese Angel Cafe,191 Dundas Street W,Desserts; Patisserie/Cake Shop
-559,illstyl3 Sammies,300 Richmond Street W,Cheesesteaks; Sandwiches
-560,Figs and Olives Kitchen,24 Wellesley Street W,Mediterranean; Middle Eastern; Halal
-561,Simit & Chai,787 King Street W,Coffee & Tea; Sandwiches; Bakeries
-562,Mi Taco Taqueria,247 Queen Street W,Mexican
-563,Tastys Caribbean Restaurant,405 Spadina Avenue,Caribbean
-564,Venezia Bakery,114 Ossington Avenue,Bakeries; Delis
-565,Kupfert & Kim,140 Spadina Avenue.,Gluten-Free; Vegetarian; Vegan
-566,Mortons The Steakhouse,4 Avenue Road,Steakhouses
-567,Tre Mari Bakery,1311 Saint Clair Avenue W,Bakeries; Italian; Delicatessen
-568,Panda Express,80 Weston Rd,Chinese
-572,Stelvio,791 Dundas Street W,Italian
-573,Rialto Espresso Bar,266 Adelaide Street W,Coffee & Tea; Bakeries
-574,El Almacen Yerba Mate Café,1078 Queen Street W,Coffee & Tea
-575,Fresh on Eglinton,90 Eglinton Avenue E,Vegan; Salad; Juice Bars & Smoothies
-576,Jin Dal Lae,647 Bloor Street W,Korean
-577,R&D Restaurant,241 Spadina Avenue,Asian Fusion; Chinese
-578,Naan & Kabob,691 Yonge Street,Afghan; Kebab
-579,Smith,553 Church Street,Breakfast & Brunch; Canadian (New); Bars
-580,Tiger Sugar,348A Yonge Street,Bubble Tea
-581,Touhenboku Ramen Restaurant,261 Queen Street W,Ramen; Desserts
-586,Niuda Hand-Pulled Noodles,204 Queen St W,Chinese; Noodles
-587,Sansotei Ramen,115 Fort York Boulevard,Ramen
-588,Cacao 70,28 Gristmill Lane,Breakfast & Brunch; Chocolatiers & Shops
-589,Millie Patisserie & Creamery,12 Oxley Street,Desserts; Bakeries; Ice Cream & Frozen Yogurt
-590,Patisserie 27,401 Jane Street,Bakeries
-591,Gladstone Hotel,1214 Queen Street W,Hotels; Lounges
-592,Eggstatic,1568 bayview avenue,Breakfast & Brunch
-593,Pig Out BBQ,650 Spadina Avenue,Barbeque; American (Traditional); Sandwiches
-594,Golden Thai Restaurant,105 Church Street,Thai
-595,Scaddabush Italian Kitchen & Bar,200 Front Street W.,Italian
-597,Mayrik,1580 Bayview Avenue,Middle Eastern; Mediterranean
-600,Cherry Street Bar-B-Que,275 Cherry Street,Barbeque
-601,Little Piggys - Authentic Korean BBQ,469 Bloor St W,Korean; Barbeque
-602,Pizzeria Libretto,545 King Street W,Pizza; Italian
-603,Bar + Karaoke Lounge,360 Yonge Street,Karaoke; Bars
-604,Umami Poke,1252 Yonge Street,Hawaiian; Seafood; Poke
-605,Chipotle Mexican Grill,323 Yonge St,Mexican; Fast Food
-606,Bloomers,873 Bloor Street W,Bakeries; Cafes; Vegan
-607,Daan Go Pastry Lab,202 Baldwin street,Macarons; Desserts; Bakeries
-608,Little Sister,2031 Yonge Street,Indonesian; Bars
-609,Moliceiro Restaurant,217 Ossington Avenue,Portuguese
-610,Il Ponte Cucina Italiana,625 Queen Street E,Italian
-614,Ajisen Ramen,332 Spadina Avenue,Ramen
-615,Fushimi,491 Church Street,Japanese; Sushi Bars
-616,Film Cafe by Eative,230 Augusta Avenue,Breakfast & Brunch; Coffee & Tea; Japanese
-617,Hong Kong Bistro Cafe,472 Dundas Street W,Chinese; Cafes
-618,The Cloak Bar,488 Wellington Street W,Cocktail Bars
-619,Over Easy Restaurant,56 Yonge Street,Breakfast & Brunch
-620,Crêpes à GoGo Spadina,750 Spadina Avenue,French; Cafes
-621,Taverna Mercatto,120 Bremner Boulevard,Italian
-622,Paramount Middle Eastern Kitchen,253 Yonge Street,Middle Eastern
-623,Brick Street Bakery,27 Trinity Street,Bakeries
-628,John & Sons Oyster House,56 Temperance Street,Seafood
-629,Pizza-Pide,949 Gerrard Street E,Pizza; Turkish
-630,Old School,800 Dundas Street W,Breakfast & Brunch; American (Traditional)
-631,Drake One Fifty,150 York Street,Cocktail Bars; Breakfast & Brunch; American (Traditional)
-632,iQ,181 Bay Street,Coffee & Tea; Juice Bars & Smoothies; Health Markets
-633,Nugateau Patisserie,717 Queen Street W,Bakeries; Desserts
-634,Soco Kitchen and Bar,75 Lower Simcoe Street,Bars; Canadian (New)
-635,Parka Food Co,424 Queen Street W,Comfort Food; Vegan; Burgers
-636,Craigs Cookies,1537 Queen Street W,Desserts
-637,Shoushin,3328 Yonge Street,Japanese; Sushi Bars
-642,Union Social Eatery,21 Saint Clair Avenue W,American (Traditional); Canadian (New)
-643,Baddies,679 Lansdowne Avenue,Coffee & Tea; Breakfast & Brunch; Cafes
-644,La Société,131 Bloor Street W,French
-645,Uncle Mikeys,1597 Dundas Street W,Korean
-646,Black Cat Espresso Bar,1104 College Street,Coffee & Tea; Sandwiches; Ice Cream & Frozen Yogurt
-647,Oretta,633 King Street W,Italian; Bars
-648,Rooster Coffee House,568 Jarvis Street,Coffee & Tea
-649,Café Pamenar,307 Augusta Avenue,Coffee & Tea
-650,La Palma,849 Dundas Street W,Italian
-651,CC Lounge & Whisky Bar,45 Front Street E,Lounges; Cocktail Bars; Whiskey Bars
-656,Danforth Pizza House,920 Danforth Avenue,Pizza
-657,Fusaros,294 Richmond Street E,Italian; Pizza
-658,Ki Modern Japanese + Bar,181 Bay Street,Japanese; Sushi Bars
-659,The Captains Boil,476 Yonge St,Seafood; Cajun/Creole; Asian Fusion
-660,Omg Oh My Gyro,155 John Street,Halal; Falafel; Fast Food
-661,Mallo,785 Bathurst Street,Coffee & Tea; Sandwiches
-662,Donatello Restaurant,37 Elm Street,Italian; Seafood
-663,Isabellas Boutique Restaurant,2066 Queen St East,Japanese; Breakfast & Brunch; Desserts
-664,Shangrila Tibetan & Asian Cuisine,1600 Queen Street W,Himalayan/Nepalese; Asian Fusion; Diners
-665,Kawa Sushi,451 Church Street,Sushi Bars; Japanese
-670,Roll & Roll by JC Mart,136 Simcoe Street,Sushi Bars
-671,Que Ling Restaurant,248 Boulton Avenue,Vietnamese
-672,The Green Wood,1402 Queen Street E,Breakfast & Brunch
-673,Echo Sushi,2036 Yonge Street,Sushi Bars; Japanese
-674,The Bata Shoe Museum,327 Bloor Street W,Museums
-675,Snakes & Lattes College,489 College Street,Bars; Cafes; Tabletop Games
-676,Athens Restaurant,707 Danforth Avenue,Greek
-677,La Cubana,392 Roncesvalles Avenue,Cuban
-678,Demen Bistro,500 Queen Street W,Vietnamese; Bars
-679,The Olde Yorke,96 Laird Drive,Seafood; Fish & Chips; British
-684,Bolets Burrito,134 Lower Sherbourne,Mexican
-685,MZaar Restaurant,668 Yonge Street,Lebanese; Mediterranean
-686,Marche Muvbox,181 Bay Street,Salad
-687,El Furniture Warehouse - Bloor St,410 Bloor St West,American (Traditional); Bars; Comfort Food
-688,Reds Midtown Tavern,382 Yonge Street,Wine Bars; Venues & Event Spaces; Argentine
-689,Biffs Bistro,4 Front Street E,French
-690,Rosalinda,133 Richmond Street W,Mexican; Vegan
-691,Pablo Cheesetart Canada,114 Dundas St W,Desserts
-692,Opus Restaurant,37 Prince Arthur Avenue,Wine Bars; Modern European
-693,SPIN Toronto,461 King St W,Cocktail Bars; Sports Clubs; American (Traditional)
-698,BeaverTails,145 Queen's Quay W,Desserts; Fast Food
-699,Famoso Neapolitan,386 Bloor Street W,Pizza
-700,Figo,295 Adelaide St W,Italian
-701,The County General,936 Queen Street W,Bars; Canadian (New); Breakfast & Brunch
-702,P.J. OBrien Irish Pub and Restaurant,39 Colborne St,Pubs
-703,Lee Chen Asian Bistro,813 Yonge Street,Dim Sum; Asian Fusion; Wine Bars
-704,Queen St Warehouse,232 Queen St,Bars; Comfort Food; American (Traditional)
-705,The Blake House,449 Jarvis Street,Pubs
-706,Cold Tea,60 Kensington Avenue,Bars
-707,Fresh on Crawford,894 Queen Street W,Vegan; Juice Bars & Smoothies; Burgers
-712,Kings Café,192 Augusta Avenue,Chinese; Vegetarian
-713,Emporium Latino,243 Augusta Ave,Latin American; Imported Food
-714,Lao Thai Restaurant,4 Gladstone Avenue,Thai; Laotian
-715,Ascari Enoteca,1111 Queen Street E,Italian; Bars
-716,Ristorante Sotto Sotto,120 Avenue Road,Italian
-717,Portici,6 Scollard Street,Italian; Pizza; Cafes
-718,Hey Lucy,295 King St. W.,Pizza; Breakfast & Brunch
-719,Peter Pan Bistro,373 Queen Street W,Canadian (New); Bistros
-720,Square Boy,875 Danforth Avenue,Burgers; Greek
-721,SU&BU,106 John St,Japanese; Poke
-724,"Ay Caramba, Eh",65-3540 Rutherford Road,Latin American; Mexican
-725,Falafel Plus,1065 Canadian Pl,Middle Eastern; Halal
-726,Hogtown Vegan,382 College Street,Vegan
-727,Golden Patty,187 Baldwin Street,Bakeries
-728,Dark Horse Espresso Bar,630 Queen Street E,Coffee & Tea
-729,Nobuya,285 Royal York Road,Japanese
-730,Fune Japanese Restaurant,100 Simcoe Street,Japanese; Sushi Bars
-731,Rikkochez,341 Danforth Avenue,Mediterranean; Middle Eastern
-732,Sorry Coffee,102 Bloor Street W,Coffee & Tea
-733,Douce France,820 Danforth Avenue,Chocolatiers & Shops; French
-734,Hacienda las Américas,424 College Street,Mexican
-735,Yueh Tung Restaurant,126 Elizabeth Street,Hakka; Breakfast & Brunch
-736,Espinas Restaurant,6080 Yonge St.,Mediterranean; Middle Eastern; Persian/Iranian
-739,Espinas Restaurant,6080 Yonge St.,Mediterranean; Persian/Iranian; Middle Eastern
-740,Mi Mi Restaurant,688 Gerrard Street E,Vietnamese
-741,Imonay House Restaurant,665 Bloor Street W,Korean
-742,Hapa Toronto,602 College Street,Japanese
-743,Giulietta,972 College Street W,Italian
-744,Paldo Gangsan,694 Bloor Street W,Korean
-745,Local 1794,1794 Danforth Avenue,Canadian (New); Gastropubs
-746,Mermaid Fish and Grill House,44 St Clair Avenue E,Seafood; Fish & Chips; Mediterranean
-747,7 Numbers Restaurant,516 Eglinton Avenue W,Italian
-748,Wallace Espresso,188 Wallace Avenue,Coffee & Tea; Cafes
-749,ONO Poké Bar,100 Western Battery Road,Hawaiian; Sushi Bars; Poke
-754,Her Chef,599 Bloor Street W,Asian Fusion; Poke; Chicken Shop
-755,Isaan Der,2961 Dundas Street W,Thai
-756,Yorkville Crepes,18 Yorkville Avenue,Creperies; Cafes; Desserts
-757,The Walton,607 College Street,Cocktail Bars
-758,Noodle King,123 Queen Street W,Chinese; Noodles
-759,Manic Coffee,426 College St,Coffee & Tea
-760,Page One,106 Mutual Street,Cafes; Bars; Venues & Event Spaces
-761,Five Doors North,2088 Yonge Street,Italian
-762,Daddyos Pasta & Salads,673 Spadina Avenue,Italian
-763,Imanishi Japanese Kitchen,1330 Dundas Street W,Japanese
-768,Chiado,864 College Street,Seafood; Portuguese
-769,9 Bars,46 St. Clair Avenue E,Cafes; Sandwiches; Desserts
-770,Akai Sushi,168 Major Street,Japanese; Sushi Bars
-771,Crown & Dragon Pub,890 Yonge Street,Pubs
-772,Storm Crow Manor,580 Church Street,Bars
-773,Library Bar,100 Front Street W,Lounges; Canadian (New); Diners
-774,Cafe de Melbourne,193 Church Street,Coffee & Tea
-775,Bampot House of Tea & Board Games,201 Harbord Street,Tea Rooms; Vegetarian
-776,RH Toronto Courtyard Café,Located in Yorkdale Shopping Centre,Breakfast & Brunch; Salad
-777,Rise & Dine Eatery,2714 St. Clair Avenue E,Breakfast & Brunch
-782,Saffron Spice Kitchen,459 Queen Street W,Indian; Soup; Sandwiches
-783,Baro,485 King Street W,Cocktail Bars; Chicken Wings; Latin American
-784,Pho Rua Vang Golden Turtle,125 Ossington Avenue,Vietnamese
-785,The Old Spaghetti Factory,54 The Esplanade,Italian
-786,Korean Grill House,214 Queen Street W,Korean
-787,Red Rocket Coffee,1364 Danforth Avenue,Desserts; Coffee & Tea
-788,Mustafa Turkish Pizza,866 Wilson Avenue,Turkish
-789,Bunners Bakeshop,244 Augusta Avenue,Bakeries; Vegan; Gluten-Free
-790,Flaming Stove,21 Davisville Avenue,Middle Eastern; Diners; Breakfast & Brunch
-791,Sea Witch Fish and Chips,636 Saint Clair Avenue W,Fish & Chips
-796,Gryfes Bagel Bakery,3421 Bathurst Street,Bagels
-797,Rendez-Vous,1408 Danforth Avenue,Ethiopian
-798,Caffino Ristorante,1185 King Street W,Italian
-799,Mr.Tonkatsu,548 Yonge Street,Japanese; Korean
-800,Udupi Palace,1460 Gerrard Street E,Indian; Vegetarian; Gluten-Free
-801,Jzs Pizza,232 Wellington Street W,Pizza; Italian
-802,Basil Box,441 Queen Street W,Vietnamese; Thai; Gluten-Free
-803,DAVIDsTEA,278A Queen Street W,Tea Rooms
-804,Kalendar,546 College Street,Italian; Breakfast & Brunch; French
-805,Ufficio,1214 Dundas Street W,Seafood; Vegetarian; Cocktail Bars
-809,Dönerland,217 Roncesvalles Avenue,Halal; Mediterranean; Kebab
-810,Ravi Soups,1128 Queen Street W,Soup
-811,Hailed Coffee,801 Gerrard Street E,Coffee & Tea; Desserts
-812,Hollywood Gelato,1640 Bayview Avenue,Ice Cream & Frozen Yogurt
-813,Jump Restaurant,18 Wellington Street W,Canadian (New); Wine Bars
-814,Knuckle Sandwich,969 Coxwell Avenue,Poutineries; Sandwiches
-815,Harvest Kitchen,124 Harbord Street,Canadian (New); Bars
-816,Sunny Morning,1392 Yonge Street,Breakfast & Brunch
-817,Labothéry,717 Bay Street,Bubble Tea
-818,Get Well,1181 Dundas Street W,Dive Bars
-819,Playa Cabana Cantina,2883 Dundas Street W,Mexican
-824,El Pocho Antojitos Bar,2 Follis Avenue,Bars; Breakfast & Brunch; Mexican
-825,Té,70 Ossington Avenue,Asian Fusion; Taiwanese; Korean
-826,Pray Tell,838 College Street,Cocktail Bars; Tapas/Small Plates; Breakfast & Brunch
-827,Barista & Chef,1006 Saint Clair Avenue W,Mediterranean
-828,Cauldron Ice Cream,502 Queen Street W,Ice Cream & Frozen Yogurt
-829,Pancers Original Deli,3856 Bathurst Street,Delis
-830,Aziza Cafe,870 College Street,Coffee & Tea; Juice Bars & Smoothies; Breakfast & Brunch
-831,Aroma Fine Indian Cuisine,287 King St W,Indian
-832,DonDon Izakaya,130 Dundas Street West,Japanese; Tapas Bars
-833,Pravda Vodka Bar,44 Wellington St E,Lounges; Russian
-838,Ritz Caribbean Foods,450 Yonge Street,Caribbean
-839,Lick It Gelato,250 Queens Quay W,Desserts; Ice Cream & Frozen Yogurt
-840,Handlebar,159 Augusta Avenue,Bars; Dance Clubs; Music Venues
-841,Ethiopian House Restaurant,4 Irwin Avenue,Ethiopian
-842,Cool Runnings Restaurant,146 Main Street,Caribbean
-843,Kasa Moto,115 Yorkville Avenue,Japanese; Sushi Bars
-844,Zuki Japanese Restaurant,2030 Eglinton Avenue W,Japanese; Sushi Bars
-845,The Danish Pastry House,65 Front Street W,Bakeries; Patisserie/Cake Shop
-846,Souv Like,708 Pape Avenue,Greek
-847,Bolan Thai Cuisine,709 Mount Pleasant Road,Thai; Desserts; Noodles
-852,The Only Cafe,972 Danforth Avenue,Pubs
-853,Leela Indian Food Bar,3108 Dundas Street W,Indian
-854,La Diperie,372 Danforth Avenue,Ice Cream & Frozen Yogurt
-855,Virtuous Pie,611 College Street,Pizza; Salad; Tapas/Small Plates
-856,Nandos Flame Grilled Chicken,832 Bay St.,Portuguese; South African
-857,Uncle Tetsus Japanese Bake,596 Bay Street,Desserts; Bakeries
-858,Loch & Quay,390 Queens Quay W,Canadian (New); Lounges
-859,Kid Lee,Located in First Canadian Place,Asian Fusion; Singaporean
-860,Bunas Kitchen,388 Richmond Street W,Sandwiches; Salad
-861,Sushi On Bloor,525 Bloor Street W,Sushi Bars
+Name,Address,Cusine
+Gyubee Japanese Grill - Dundas,157 Dundas St W,Japanese; Barbeque
+Indian Spice Room,717 Queen Street E,Vegetarian; Indian
+Olive + Lemon,3604 Major MacKenzie Dr W,Seafood; Pizza; Italian
+Pai Northern Thai Kitchen,18 Duncan Street,Thai
+Seven Lives Tacos Y Mariscos,69 Kensington Avenue,Mexican
+KINKA IZAKAYA ORIGINAL,398 Church St,Japanese; Pubs
+Banh Mi Boys,392 Queen Street W,Vietnamese; Sandwiches
+Richmond Station,1 Richmond Street W,Canadian (New)
+Byblos,11 Duncan Street,Mediterranean; Middle Eastern
+Bang Bang Ice Cream and Bakery,93a Ossington Avenue,Desserts; Ice Cream & Frozen Yogurt
+Khao San Road,11 Charlotte Street,Thai
+Ramen Isshin,421 College Street,Ramen
+Blaze Fast-Fired Pizza,10 Dundas Street East,Pizza; Salad; Fast Food
+Flame Food+Design,2197 Bloor Street W,Canadian (New); Turkish
+Ozzys Burgers Vaughan,3175 Rutherford Road,Burgers
+Spice Club Indian Cuisine,4532 Kingston Road,Indian
+Pearl Diver,100 Adelaide Street E,Seafood; Comfort Food; Breakfast & Brunch
+Fahrenheit Coffee,120 Lombard Avenue,Coffee & Tea
+The Stockyards,699 St. Clair Avenue W,American (Traditional); Barbeque; Burgers
+Mildreds Temple Kitchen,85 Hanna Avenue,Breakfast & Brunch; Canadian (New)
+Ripleys Aquarium of Canada,288 Bremner Blvd,Aquariums
+Scaramouche Restaurant Pasta Bar & Grill,1 Benvenuto Place,French; Bars
+JaBistro,222 Richmond Street W,Japanese; Sushi Bars
+Lee Restaurant,601 King Street W,Asian Fusion
+Katsuya,66 Gerrard Street E,Japanese; Asian Fusion
+Hokkaido Ramen Santouka,91 Dundas Street E,Ramen; Noodles
+Dönerland,217 Roncesvalles Avenue,Kebab; Mediterranean; Halal
+Olive + Lemon,3604 Major MacKenzie Dr W,Italian; Pizza; Seafood
+Gyubee Japanese Grill - Bloor,335 Bloor Street W,Barbeque; Japanese; Steakhouses
+Dönerland,217 Roncesvalles Avenue,Mediterranean; Kebab; Halal
+Eggspectation,483 Bay Street,Breakfast & Brunch; Juice Bars & Smoothies
+Alo Restaurant,163 Spadina Avenue,Bars; French
+Frescos Fish & Chips,201 Augusta Avenue,Fish & Chips; Chicken Wings; Sandwiches
+Tinuno,31 Howard Street,Filipino
+GB Hand-pulled Noodles,66 Edward Street,Chinese; Noodles
+CN Tower,301 Front St W,Landmarks & Historical Buildings; Observatories
+Bar Isabel,797 College Street,Spanish; Tapas Bars
+KINKA IZAKAYA ANNEX,559 Bloor St W,Japanese; Tapas/Small Plates; Pubs
+Wilbur Mexicana,552 King Street W,Mexican
+Banh Mi Boys,399 Yonge Street,Vietnamese; Asian Fusion
+Dönerland,217 Roncesvalles Avenue,Kebab; Halal; Mediterranean
+Juicy Dumpling,280 Spadina Ave,Dim Sum; Dumplings
+Ravi Soups,322 Adelaide Street W,Sandwiches; Soup
+Black Camel,4 Crescent Road,Sandwiches
+Adamson Barbecue,176 Wicksteed Avenue,Barbeque
+Mystic Muffin,113 Jarvis Street,Sandwiches; Middle Eastern; Coffee & Tea
+Saku Sushi,478 Queen Street W,Sushi Bars; Japanese
+Beerbistro,18 King Street E,Bistros; Beer Bar
+Descendant Detroit Style Pizza,1168 Queen Street E,Pizza
+BarChef,472 Queen Street W,Lounges; Cocktail Bars
+Emmas Country Kitchen,810 Saint Clair Avenue W,Breakfast & Brunch; Bakeries; Comfort Food
+Flame Food+Design,2197 Bloor Street W,Turkish; Canadian (New)
+Gyubee Japanese Grill - Bloor,335 Bloor Street W,Japanese; Barbeque; Steakhouses
+Olive + Lemon,3604 Major MacKenzie Dr W,Pizza; Seafood; Italian
+Soma Chocolatemaker,443 King Street West,Chocolatiers & Shops; Ice Cream & Frozen Yogurt; Desserts
+Sansotei,650 Yonge Street,Ramen
+The Keg Steakhouse + Bar - Mansion,515 Jarvis Street,Steakhouses; Bars; Seafood
+AGO - Art Gallery of Ontario,317 Dundas Street W,Art Museums
+Tsujiri,147 Dundas Street,Tea Rooms; Ice Cream & Frozen Yogurt; Desserts
+Tibet Kitchen,1544 Queen Street W,Himalayan/Nepalese
+Café Polonez,195 Roncesvalles Avenue,Polish
+Beast Restaurant,96 Tecumseth Street,Canadian (New); Breakfast & Brunch
+Lamesa Filipino Kitchen,634 St Clair Avenue W,Filipino
+Royal Ontario Museum,100 Queen's Park,Museums
+Gyubee Japanese Grill - Dundas,157 Dundas St W,Barbeque; Japanese
+Aanch Modernistic Indian Cuisine,259 Wellington St W,Indian
+Ikkousha Ramen,249 Queen Street W,Ramen
+Japango,122 Elizabeth Street,Sushi Bars
+Wow Sushi,11 Charles Street,Sushi Bars
+Nadege,780 Queen Street W,Desserts; Macarons; Patisserie/Cake Shop
+Aloette,163 Spadina Avenue,French; Bistros; Diners
+Le Sélect Bistro,432 Wellington Street W,French; Coffee & Tea; Breakfast & Brunch
+Mira,420A Wellington Street W,Peruvian
+Salad King Restaurant,340 Yonge Street,Thai
+Yuzu No Hana,236 Adelaide Street W,Sushi Bars; Japanese
+Hibiscus,238 Augusta Avenue,Vegan; Vegetarian; Gluten-Free
+Olive + Lemon,3604 Major MacKenzie Dr W,Pizza; Italian; Seafood
+Dönerland,217 Roncesvalles Avenue,Halal; Kebab; Mediterranean
+Grand Electric,1330 Queen Street W,Bars; Mexican
+Sabai Sabai Kitchen and Bar,81 Bloor Street E,Laotian; Thai; Bars
+Bannock,401 Bay Street,Canadian (New); Sandwiches; Breakfast & Brunch
+Poke Guys,112 Elizabeth Street,Hawaiian; Poke
+Evas Original Chimneys,454 Bloor Street W,Desserts; Bakeries; Ice Cream & Frozen Yogurt
+Bar Raval,505 College Street,Spanish; Tapas/Small Plates; Cocktail Bars
+Cluck Clucks,222 The Esplanade,Chicken Shop; Comfort Food; Sandwiches
+Barque Smokehouse,299 Roncesvalles Avenue,Barbeque; Smokehouse
+Ruby Watchco,730 Queen Street E,Canadian (New)
+Nuit Social,1168 Queen Street W,Cocktail Bars; Modern European; Canadian (New)
+Gyubee Japanese Grill - Bloor,335 Bloor Street W,Barbeque; Steakhouses; Japanese
+The Carbon Bar,99 Queen Street E,Barbeque; Bars; American (Traditional)
+La Bella Managua,872 Bloor Street W,Latin American; Nicaraguan
+Agio,1351 St Clair Avenue W,Italian
+Snakes & Lattes Annex,600 Bloor Street W,Bars; Cafes
+La Carnita,501 College Street,Mexican
+Sukhothai,274 Parliament Street,Thai; Noodles
+The Keg Steakhouse + Bar,165 York Street,Steakhouses; Bars; Seafood
+Planta Yorkville,1221 Bay Street,Tapas/Small Plates; Pizza; Cocktail Bars
+Pow Wow Cafe,213 Augusta Avenue,Canadian (New); Cafes
+Burrito Boyz,224 Adelaide Street W,Mexican
+Gyubee Japanese Grill - Bloor,335 Bloor Street W,Steakhouses; Japanese; Barbeque
+RYUS Noodle Bar,669 Queen Street W,Ramen
+Momofuku Noodle Bar,190 University Avenue,Ramen; Noodles
+Hanmoto,2 Lakeview Avenue,Japanese; Asian Fusion
+Ryus Noodle Bar,786 Broadview Avenue,Ramen
+The Haam,342 Adelaide St W,Japanese; Mexican; Sushi Bars
+Swatow Restaurant,309 Spadina Avenue,Chinese
+FIKA,28 Kensington Avenue,Coffee & Tea; Sandwiches; Desserts
+The Burgers Priest,463 Queen Street W,Burgers
+Moon Bean Coffee Company,30 St. Andrew Street,Coffee & Tea; Coffee Roasteries
+Icha Tea,235 Spadina Avenue,Coffee & Tea; Desserts
+Tofu Village - House of Soon Tofu,681 Bloor Street W,Korean
+Gyubee Japanese Grill - Bloor,335 Bloor Street W,Japanese; Steakhouses; Barbeque
+White Brick Kitchen,641 Bloor Street W,Breakfast & Brunch; Comfort Food
+Rustle & Still Café,605 Bloor Street W,Coffee & Tea; Vietnamese
+Takht-e Tavoos,1120 College Street,Persian/Iranian
+Assembly Chefs Hall,111 Richmond Street W,Food Court
+Pizzeria Libretto Danforth,550 Danforth Avenue,Pizza; Italian
+Yummy Yummy Dumplings,79 Huron Street,Chinese; Dumplings; Soup
+Levetto,68 Sudbury Street,Italian; Pizza; Salad
+La Palette,492 Queen Street W,French; Desserts; Bars
+Summers Ice Cream,101 Yorkville Avenue,Ice Cream & Frozen Yogurt; Desserts
+La Cubana,92 Ossington Avenue,Cuban; Desserts; Sandwiches
+Bar Buca,75 Portland Street,Bars; Italian; Breakfast & Brunch
+The Poke Box,36 Toronto Street,Salad; Poke
+Good Fork,1550 Dundas St W,Canadian (New)
+Chubbys Jamaican Kitchen,104 Portland Street,Caribbean
+Josos,202 Davenport Road,Seafood
+Sugo,1279 Bloor Street W,Italian; Sandwiches; Cocktail Bars
+Almond Butterfly Cafe & Bakeshop,100 Harbord Street,Bakeries; Cafes; Breakfast & Brunch
+Korean Village Restaurant,628 Bloor Street W,Korean
+Scaddabush Italian Kitchen & Bar,382 Yonge Street,"Wine Bars; Italian; Beer, Wine & Spirits"
+Plentea,1205 Queen Street W,Coffee & Tea; Tea Rooms
+Cluny Bistro & Boulangerie,35 Tank House Lane,French; Wine Bars; Cocktail Bars
+Mengrai Thai,82 Ontario Street,Thai; Noodles
+Sassafraz,100 Cumberland Street,French
+Smoque N Bones,869 Queen Street W,Barbeque
+Seor Ak San,357 Spadina Avenue,Korean
+The Hogtown Vegan,1056 Bloor St. W,Vegan
+Tachi,111 Richmond Street W,Sushi Bars; Japanese
+Banjara Indian Cuisine,796 Bloor Street W,Indian
+Apiecalypse Now!,735 Bloor Street W,Pizza; Vegan; Ice Cream & Frozen Yogurt
+Trattoria Nervosa,75 Yorkville Avenue,Italian; Pizza; Salad
+Veghed,1199 Dundas Street W,Vegan; Vegetarian
+Tandem Coffee,368 King Street E,Coffee & Tea
+Odd Seoul,90 Ossington Avenue,Korean; Dive Bars; Asian Fusion
+Okonomi House Restaurant,23 Charles Street W,Japanese
+HotBlack Coffee,245 Queen Street W,Coffee & Tea; Cafes; Breakfast & Brunch
+Egg Bae,189 Augusta Avenue,Breakfast & Brunch
+Imm Thai Kitchen,651 College Street,Thai; Noodles
+Indie Ale House,2876 Dundas Street W,Breweries; Gastropubs; Pizza
+Makkal Chon,1979 Lawrence Avenue E,Korean
+STACK,3265 Yonge Street,Barbeque
+Schnitzel Queen,211 Queen Street E,German; Sandwiches
+White Lily Diner,678 Queen Street E,Breakfast & Brunch; Diners
+Casa Loma,1 Austin Terrace,Museums
+Completo,5 Coady Avenue,Latin American; Fast Food; Comfort Food
+Mr.Tonkatsu,520 Bloor Street W,Japanese
+The Burgers Priest,1636 Queen Street E,Burgers
+Earls Kitchen + Bar,150 King Street West,Canadian (New); Cocktail Bars
+Barberians Steak House,7 Elm Street,Steakhouses
+Wongs Ice Cream & Store,617 Gerrard Street E,Ice Cream & Frozen Yogurt; Desserts
+Levetto,382 Spadina Avenue,Pizza; Italian; Salad
+Indian Spice Room,717 Queen Street E,Indian; Vegetarian
+LUnita Enoteca,134 Avenue Road,Italian
+Little Pebbles,160 Baldwin Street,Desserts; Coffee & Tea
+Yummy Korean Food Restaurant,620 Bloor Street W,Korean
+Sukho Thai,52 Wellington Street E,Thai
+Como En Casa,565 Yonge Street,Mexican
+Chatime - Dundas,132 Dundas Street W,Coffee & Tea
+Union,72A Ossington Avenue,French; Wine Bars
+King Taps,Located in First Canadian Place,Lounges; Canadian (New); Breakfast & Brunch
+Cafe Crepe,246 Queen Street W,Creperies; Breakfast & Brunch; Coffee & Tea
+Salad Days,2 Bloor Street W,Food Stands; Salad
+Homemade Ramen,263 Spadina Avenue,Chinese; Noodles; Ramen
+Honest Weight,2766 Dundas Street W,Seafood; Seafood Markets
+Allan Gardens,19 Horticultural Avenue,Parks
+Sweet Jesus,106 John Street,Desserts; Ice Cream & Frozen Yogurt; Coffee & Tea
+Messini Authentic Gyros,445 Danforth Avenue,Greek; Sandwiches
+The Irv Gastro Pub,195 Carlton Street,Burgers; Gastropubs
+Soma Chocolatemaker,32 Tank House Lane,Chocolatiers & Shops; Ice Cream & Frozen Yogurt; Desserts
+Chadwicks,268 Howland Avenue,Canadian (New); Comfort Food
+Veggie DLight,160 Baldwin Street,Caribbean; Vegan; Gluten-Free
+KINTON RAMEN,51 Baldwin Street,Ramen; Noodles
+Dönerland,217 Roncesvalles Avenue,Mediterranean; Halal; Kebab
+Gyubee Japanese Grill - Bloor,335 Bloor Street W,Steakhouses; Barbeque; Japanese
+Woodlot Restaurant,293 Palmerston Avenue,Vegetarian; Canadian (New); Comfort Food
+Pizzeria Libretto,155 University Avenue,Pizza; Italian
+Logas Corner,216C Close Avenue,Himalayan/Nepalese
+Fresh On Bloor,326 Bloor Street W,Vegan; Salad; Soup
+iHalo Krunch,831 Queen Street W,Ice Cream & Frozen Yogurt
+Si Lom Thai Bistro,534 Church Street,Thai; Noodles; Seafood
+Le Gourmand,152 Spadina Avenue,Coffee & Tea; Breakfast & Brunch; Cafes
+Forno Cultura,609 King Street W,Bakeries; Coffee & Tea
+Tacos El Asador,689 Bloor Street W,Mexican; Latin American
+Koh Lipe Thai Kitchen,35 Baldwin Street,Thai
+Crepe TO,52 Church Street,Creperies
+Early Bird Coffee & Kitchen,613 Queen Street W,Coffee & Tea; Breakfast & Brunch
+Raku,456 Queen St W,Japanese; Noodles
+The Dirty Bird Chicken + Waffles,79 Kensington Avenue,Chicken Shop; Waffles; Burgers
+Ottos Bierhalle,1087 Queen Street W,German
+Le Baratin,1600 Dundas Street. W,French
+Live Organic Food Bar,264 Dupont Street,Live/Raw Food; Organic Stores; Juice Bars & Smoothies
+Kintako Japanese Restaurant,214 Laird Drive,Japanese
+Rolltation,207 Dundas Street W,Sushi Bars; Salad; Poke
+Zaad,348 Bloor Street West,Middle Eastern
+Carisma,15 Toronto Street,Italian
+The Caledonian,856 College Street,Pubs; Scottish; Whiskey Bars
+California Sandwiches,244 Claremont Street,Sandwiches
+Jules Bistro,147 Spadina Avenue,French
+The Wren,1382 Danforth Avenue,Bars; American (Traditional)
+Pukka,778 St. Clair Avenue W,Indian
+Butter Avenue,477 Queen Street W,Desserts; Bakeries; Macarons
+Oyster Boy,872 Queen Street W,Seafood
+Jimmys Coffee,107 Portland Street,Coffee & Tea
+The Hole In the Wall,2867 Dundas Street W,Pubs; Canadian (New)
+Le Petit Déjeuner,191 King Street E,Breakfast & Brunch; Belgian
+House of Gourmet,484 Dundas St W,Chinese
+Tabule Restaurant,2009 Yonge Street,Middle Eastern; Vegan; Vegetarian
+KINTON RAMEN,396 Church Street,Ramen; Noodles
+Jimmys Coffee,191 Baldwin Street,Coffee & Tea
+Toronto Island,Toronto Island,Parks; Beaches
+COO Café Bread or Rice,1049 Bloor Street W,Japanese; French
+FUEL+,471 Church Street,Coffee & Tea; Organic Stores; Juice Bars & Smoothies
+Jimmys Coffee,84 Gerrard Street W,Coffee & Tea
+Arctic Bites,21 Baldwin Street,Ice Cream & Frozen Yogurt
+Kiin,326 Adelaide Street W,Thai
+Athens Pastries,509 Danforth Avenue,Bakeries; Mediterranean
+Voodoo Child,388 College Street,Coffee & Tea; Cocktail Bars
+Bosk,Located in Shangri-La Hotel,Canadian (New)
+Local Liberty Village,171 E Liberty Street,Sports Bars; Breakfast & Brunch
+The Fish Store & Sandwiches,657 College Street,Sandwiches; Seafood
+Tabülè Middle Eastern Cuisine,810 Queen Street E,Middle Eastern
+Mangia & Bevi,260 King Street E,Italian; Pizza
+Epicure City BOM,72 Gerrard Street W,Korean
+Nodo Restaurant,2885 Dundas Street West,Italian
+Quantum Coffee,460 King Street W,Coffee & Tea
+Loose Moose,146 Front Street West,Sports Bars; Gastropubs; Canadian (New)
+Fabarnak Community Cafe and Catering,519 Church Street,Cafes; Caterers
+Copacabana Brazilian Steak House,150 Eglinton Avenue E,Brazilian; Steakhouses
+Lahore Tikka House,1365 Gerrard Street E,Halal; Pakistani
+Little India Restaurant,255 Queen Street W,Indian; Buffets
+Rudy,619 College Street,Burgers; Fast Food; Sandwiches
+Mothers Dumplings,421 Spadina Avenue,Chinese
+Gyu-Kaku Japanese BBQ,81 Church Street,Japanese; Barbeque; Asian Fusion
+Onnki Donburi,40 Hayden Street,Japanese
+"Ay Caramba, Eh",65-3540 Rutherford Road,Mexican; Latin American
+Subway,671 Danforth Avenue,Fast Food; Sandwiches
+Salad House,13 Hayden Street,Salad
+Simones Caribbean Restaurant,596 Danforth Avenue,Caribbean
+Café Boulud,Located in Four Seasons Toronto,Cafes; Desserts; French
+Sala Modern Thai Kitchen & Bar,1262 Danforth Avenue,Thai; Asian Fusion
+Akira Back,80 Blue Jays Way,Japanese; Korean; Asian Fusion
+Grey Gardens,199 Augusta Avenue,Wine Bars; Canadian (New)
+Cocktail Bar,923 Dundas St W,Bars
+Campechano Taquería,504 Adelaide Street W,Mexican
+de Mello Palheta,2489 Yonge Street,Coffee & Tea; Bakeries; Desserts
+Boxcar Social,1208 Yonge Street,Wine Bars; Coffee & Tea
+Supernova Ballroom,330 Bay Street,Cocktail Bars
+Farmr Eatery & Catering,140 The Esplanade,Canadian (New); Gluten-Free; Vegetarian
+Gio Ranas Really Really Nice Restaurant,1220 Queen Street East,Italian; Tapas/Small Plates
+Cest What,67 Front Street E,Breweries; Music Venues; Canadian (New)
+Himalayan Kitchen,1526 Queen Street W,Indian; Himalayan/Nepalese
+Beach Hill Smokehouse,172 Main Street S,Barbeque; Desserts; Sandwiches
+Real Sports,15 York Street,Sports Bars; Canadian (New)
+Aunties & Uncles,74 Lippincott Street,Breakfast & Brunch
+Zezafoun Syrian Cuisine,4 Manor Road E,Syrian; Middle Eastern; Arabian
+Raijin Ramen,24 Wellesley Street W,Ramen; Noodles; Soup
+Adega Restaurante,33 Elm St,Portuguese; Spanish
+Tashi Delek Cafe,223 Jameson Avenue,Himalayan/Nepalese; Cafes
+Buddhas Vegan Foods,666 Dundas Street W,Vegetarian; Chinese; Vegan
+Avenue Open Kitchen,7 Camden Street,Diners; Delis; Sandwiches
+ImPerfect Fresh Eats,318 Adelaide Street W,Salad; Juice Bars & Smoothies; Acai Bowls
+Big Trouble Pizza,235 Spadina Avenue,Pizza
+Wafels & More,237 Augusta Avenue,Breakfast & Brunch; Waffles; Belgian
+Kitten and the Bear,1414 Dundas Street W,Coffee & Tea; Specialty Food
+Balzacs Distillery District,1 Trinity Street,Coffee & Tea; Venues & Event Spaces; Coffee Roasteries
+Patois Toronto,794 Dundas Street W,Chinese; Asian Fusion; Caribbean
+Mon K Patisserie,1040 Coxwell Avenue,Coffee & Tea; Bakeries
+Momo Hut & Gardens,401 Danforth Avenue,Himalayan/Nepalese
+7 West Cafe,7 Charles Street W,Italian; Breakfast & Brunch; Bars
+Bean and Baker Malt Shop,326 Harbord Street,Ice Cream & Frozen Yogurt; Coffee & Tea; Patisserie/Cake Shop
+Queen Mother Cafe,208 Queen Street W,Asian Fusion; Thai
+Mamakas Taverna,80 Ossington Avenue,Greek; Mediterranean
+Good Hombres,374 Bathurst Street,Mexican
+Ricardas Toronto,134 Peter St,Mediterranean; Italian; Breakfast & Brunch
+Sakawa Coffee & Japanese Restaurant,867 Danforth Ave,Japanese
+Mezes,456 Danforth Avenue,Greek; Mediterranean
+Porchetta & Co,545 King Street W,Sandwiches
+NEO COFFEE BAR,161 Frederick St,Coffee & Tea; Bakeries
+Olive + Lemon,3604 Major MacKenzie Dr W,Seafood; Italian; Pizza
+Mother India,1456 Queen Street W,Indian
+Town Crier Pub,115 John St,Pubs; German
+Fusaros Kitchen,147 Spadina Avenue,Italian; Pizza
+Dukes Refresher + Bar,382 Yonge Street,Burgers; American (Traditional); Beer Bar
+Our Spot,180 Baldwin Street,Breakfast & Brunch; Coffee & Tea
+Fat Pasha,414 Dupont Street,Middle Eastern
+Maker Pizza,59 Cameron Street,Pizza
+Fudao noodle house,358 Spadina ave,Chinese; Noodles; Fast Food
+Dark Horse Espresso,215 Spadina Avenue,Coffee & Tea
+Bitondos Pizzeria,11 Clinton Street,Pizza; Italian
+La Vecchia Ristorante,2405A Yonge Street,Italian; Seafood; Venues & Event Spaces
+Terroni,720 Queen Street W,Italian; Pizza
+Prohibition Gastrohouse - Queen,696 Queen Street E,Bars; American (Traditional)
+The Shameful Tiki Room,1378 Queen W,Tiki Bars
+Piedmont Coffee Bar,66 Isabella Street,Coffee & Tea
+Wandas Pie In The Sky,287 Augusta Avenue,Bakeries; Desserts; Coffee & Tea
+Canis,746 Queen Street W,Canadian (New); Wine Bars
+Kevins Taiyaki,675 Bloor Street,Specialty Food; Asian Fusion; Japanese
+Light Cafe,23 Baldwin Street,Cafes
+Banh Mi Boys,2365 Yonge Street,Vietnamese; Asian Fusion
+Reposado Bar & Lounge,136 Ossington Avenue,Tapas/Small Plates; Music Venues; Cocktail Bars
+Pomegranate Restaurant,420 College Street,Middle Eastern; Persian/Iranian
+Lai Wah Heen,Located in DoubleTree by Hilton Hotel Toronto Downtown,Dim Sum
+Hothouse,35 Church Street,Italian; Bars; Venues & Event Spaces
+Graffiti Alley,513 Queen Street W,Public Art
+Pizzeria Via Mercanti,188 Augusta Avenue,Pizza; Italian
+Gregs Ice Cream,750 Spadina Avenue,Ice Cream & Frozen Yogurt
+Sushi & BBbop,384 Yonge Street,Sushi Bars; Korean; Japanese
+Piano Piano,88 Harbord Street,Italian; Pizza
+Foxley Bistro and Bar,207 Ossington Avenue,Asian Fusion; Tapas Bars
+Black Canary Espresso Bar,329 Yonge Street,Coffee & Tea
+Busters Sea Cove,93 Front Street E,Seafood
+Dirty Food Eatery,3070 Dundas Street W,Breakfast & Brunch; Comfort Food
+Frankies,994 Queen Street W,Breakfast & Brunch; Diners
+Mos Mos,25 King Street W,Cafes; Coffee & Tea
+Kit Kat Italian Bar & Grill,297 King Street W,Italian; Mediterranean
+Dessert Lady Café,12 Cumberland St,Bakeries; Desserts
+Evviva Breakfast & Lunch - Downtown Toronto,25 Lower Simcoe,Breakfast & Brunch
+Rooster Coffee House,343 King Street E,Coffee & Tea; Sandwiches
+Sud Forno,716 Queen Street W,Italian; Bakeries; Sandwiches
+Utopia Café & Grill,586 College St,Tex-Mex; Burgers
+Gushi Japanese Street Food,707 Dundas Street W,Street Vendors; Japanese
+Lee Chen Asian Bistro,214 King Street W,Dim Sum; Asian Fusion
+Ozzys Burgers,66 Nassau St,Burgers; Sandwiches; Fast Food
+Chicas Nashville Hot Chicken,2853 Dundas Street W,Chicken Shop; Southern
+The Lockhart,1479 Dundas Street W,Bars
+Holy Chuck,1450 Yonge Street,Burgers
+Souk Tabule,494 Front Street E,Middle Eastern; Salad; Soup
+Khmer Thai Restaurant,1018 St Clair Avenue W,Thai; Cambodian
+JOEY Yorkdale,305 - B 3401 Dufferin St,Canadian (New); Lounges
+Pinkys Ca Phe,53 Clinton Street,Vietnamese
+Trinity Bellwoods Park,155 Crawford Street,Parks
+Bonjour Brioche,812 Queen Street E,Breakfast & Brunch; French
+Te Aro,983 Queen Street E,Coffee & Tea; Cafes
+Carousel Bakery,93 Front Street E,Sandwiches; Bakeries
+Luma,350 King Street W,Canadian (New); Lounges
+Ill Be Seeing You,747 Queen Street E,Cocktail Bars; Comfort Food
+Nu Bügel,240 Augusta Avenue,Bagels
+The Shore Club - Toronto,155 Wellington Street W,Seafood; Steakhouses; Cocktail Bars
+Restaurant La Banane,227 Ossington Avenue,French; Seafood; Bistros
+Dolce Gelato,697 College Street,Ice Cream & Frozen Yogurt; Desserts; Coffee & Tea
+Museum Tavern,208 Bloor Street W,American (Traditional)
+Guu Izakaya Toronto,1314 Queen Street W,Japanese; Tapas Bars; Sushi Bars
+Rhum Corner,926 Dundas Street W,Caribbean; Salad; Cocktail Bars
+Trattoria Taverniti,591 College Street,Italian; Pizza
+Michaels on Simcoe,100 Simcoe Street,Steakhouses; Italian; Seafood
+Tokyo Kitchen,20 Charles Street E,Japanese
+Bobbette & Belle,1121 Queen Street E,Caterers; Bakeries; Desserts
+Crown Princess Fine Dining,1033 Bay Street,Dim Sum
+Asian Legend,418 Dundas Street W,Dim Sum
+Stout Irish Pub,221 Carlton Street,Pubs; Irish
+The Good Son,1096 Queen Street W,Pizza; Cocktail Bars
+Communists Daughter,1149 Dundas Street W,Bars
+Chino Locos Original,4 Greenwood Avenue,Mexican
+Cibo Wine Bar,522 King Street W,Wine Bars; Italian
+Smokes Poutinerie,218 Adelaide Street W,Fast Food; Poutineries
+Frans Restaurant,20 College Street,Diners; Breakfast & Brunch; American (Traditional)
+Thai Country Kitchen,412 Spadina Ave,Thai; Noodles
+Utsav,69 Yorkville Ave,Food Delivery Services; Indian
+Fahrenheit Coffee,529 Richmond Street W,Coffee & Tea
+Versus Coffee,70 Adelaide Street E,Coffee & Tea
+Tilt Arcade Bar,824 Dundas Street West,Arcades; Bars
+Pho Hung,350 Spadina Avenue,Vietnamese
+Bar Sybanne,229 Ossington Avenue,Mediterranean; Moroccan; Middle Eastern
+Northwood,815 W Bloor Street,Cafes; Cocktail Bars
+Doomies Toronto,1346 Queen St W,Vegan; Vegetarian
+Pearl Harbourfront Chinese Cuisine,207 Queens Quay W,Dim Sum; Seafood; Noodles
+Death in Venice Gelato,1418 Dundas West,Ice Cream & Frozen Yogurt
+Istanbul Cafe & Espresso Bar,174 Eglinton Avenue E,Coffee & Tea; Turkish; Internet Cafes
+Ruths Chris Steak House,145 Richmond Street W,Steakhouses; Seafood; Lounges
+Fieramosca,36A Prince Arthur Avenue,Italian
+Suite 114,116 Dundas Street W,Cocktail Bars
+O.Noir,620 Church St,Canadian (New)
+The Lakeview,1132 Dundas Street W,Diners; Canadian (New)
+Poutinis House of Poutine,1112 Queen Street W,Fast Food; Poutineries
+Madras Masala,796 Bloor Street W,Indian
+Formocha,55 Eglinton Avenue E,Coffee & Tea
+W Burger Bar,10 College Street,Burgers; Breakfast & Brunch; Bars
+Carmen,922 Queen Street W,Spanish
+Tango Palace Coffee Company,1156 Queen Street E,Coffee & Tea
+When The Pig Came Home,3035 Dundas Street W,Delicatessen; Sandwiches
+Dutch Dreams,36 Vaughan Road,Ice Cream & Frozen Yogurt
+Sam James Coffee Bar,150 King Street W,Coffee & Tea
+The Keg Steakhouse & Bar,560 King Street W,Steakhouses; Bars
+Dimmi Bar & Trattoria,140 Cumberland St,Italian; Venues & Event Spaces
+Forget Me Not Cafe,883 Wilson Avenue,Vietnamese
+Bindia Indian Bistro,16 Market Street,Indian
+Barsa Taberna,26 Market Street,Tapas Bars
+The Oxley,121 Yorkville Avenue,Gastropubs
+To-ne Sushi,414 Queen Street W,Japanese; Sushi Bars; Asian Fusion
+Nathan Phillips Square,100 Queen Street W,Landmarks & Historical Buildings
+Carbonic Coffee,37 Baldwin Street,Coffee & Tea; Coffee Roasteries; Cafes
+Medieval Times Toronto,10 Dufferin Street,Dinner Theater; American (Traditional)
+Blu Ristorante,17 Yorkville Ave,Italian; Lounges
+Chabrol Restaurant,90 Yorkville Avenue,French
+Mr Pide,800 Danforth Avenue,Pizza; Turkish
+Burrito Bandidos,2 Grosvenor Street,Mexican
+Hot-Star,374A Yonge Street,Chicken Wings; Taiwanese; Fast Food
+Tokyo Sushi,33 St Joseph Street,Sushi Bars; Japanese
+The Tilted Dog Pub & Kitchen,424 Parliament Street,Sandwiches; Pubs
+Gyugyuya,177 Dundas Street W,Japanese; Fast Food
+KINTON RAMEN,402 Queen St W,Ramen
+Koyoi Restaurant & Bar,2 Irwin Avenue,Japanese; Bars
+Rolltation,2291 Yonge Street,Sushi Bars; Asian Fusion; Poke
+Omai Restaurant,3 Baldwin Street,Japanese
+Kupfert & Kim,100 King Street West,Vegetarian; Vegan; Gluten-Free
+Lake Inez,1471 Gerrard Street E,Bars; Asian Fusion
+The Keg Steakhouse + Bar - Esplanade,26 The Esplanade,Steakhouses; Bars; Seafood
+Nami Restaurant,55 Adelaide Street E,Japanese; Seafood
+La Chilaca Taqueria,214 Augusta Avenue,Mexican
+Olive + Lemon,3604 Major MacKenzie Dr W,Italian; Seafood; Pizza
+Napoli Centrale,964 Bathurst Street,Italian; Pizza
+Fuwa Fuwa Japanese Pancakes,2471 Yonge Street,Desserts; Patisserie/Cake Shop; Bakeries
+The Burgers Priest,3397 Yonge Street,Burgers
+Sheherzade Persian Grill And Dizi,422 College St W,Persian/Iranian
+Weslodge Bar & Grill,480 King Street W,Canadian (New); Cocktail Bars
+One Love Vegetarian,854 Bathurst Street,Caribbean; Vegetarian
+Sake Bar Kushi,257 Eglinton Avenue W,Japanese; Sushi Bars; Tapas Bars
+JINYA Ramen Bar,399 Church Street,Ramen
+Bazara Asian Cuisine,188 Ossington Avenue,Asian Fusion; Sushi Bars
+Cinco Mexican Restaurant,131 Roncesvalles Ave,Mexican
+Uncle Tetsus Japanese Angel Cafe,191 Dundas Street W,Desserts; Patisserie/Cake Shop
+illstyl3 Sammies,300 Richmond Street W,Cheesesteaks; Sandwiches
+Figs and Olives Kitchen,24 Wellesley Street W,Mediterranean; Middle Eastern; Halal
+Simit & Chai,787 King Street W,Coffee & Tea; Sandwiches; Bakeries
+Mi Taco Taqueria,247 Queen Street W,Mexican
+Tastys Caribbean Restaurant,405 Spadina Avenue,Caribbean
+Venezia Bakery,114 Ossington Avenue,Bakeries; Delis
+Kupfert & Kim,140 Spadina Avenue.,Gluten-Free; Vegetarian; Vegan
+Mortons The Steakhouse,4 Avenue Road,Steakhouses
+Tre Mari Bakery,1311 Saint Clair Avenue W,Bakeries; Italian; Delicatessen
+Panda Express,80 Weston Rd,Chinese
+Stelvio,791 Dundas Street W,Italian
+Rialto Espresso Bar,266 Adelaide Street W,Coffee & Tea; Bakeries
+El Almacen Yerba Mate Café,1078 Queen Street W,Coffee & Tea
+Fresh on Eglinton,90 Eglinton Avenue E,Vegan; Salad; Juice Bars & Smoothies
+Jin Dal Lae,647 Bloor Street W,Korean
+R&D Restaurant,241 Spadina Avenue,Asian Fusion; Chinese
+Naan & Kabob,691 Yonge Street,Afghan; Kebab
+Smith,553 Church Street,Breakfast & Brunch; Canadian (New); Bars
+Tiger Sugar,348A Yonge Street,Bubble Tea
+Touhenboku Ramen Restaurant,261 Queen Street W,Ramen; Desserts
+Niuda Hand-Pulled Noodles,204 Queen St W,Chinese; Noodles
+Sansotei Ramen,115 Fort York Boulevard,Ramen
+Cacao 70,28 Gristmill Lane,Breakfast & Brunch; Chocolatiers & Shops
+Millie Patisserie & Creamery,12 Oxley Street,Desserts; Bakeries; Ice Cream & Frozen Yogurt
+Patisserie 27,401 Jane Street,Bakeries
+Gladstone Hotel,1214 Queen Street W,Hotels; Lounges
+Eggstatic,1568 bayview avenue,Breakfast & Brunch
+Pig Out BBQ,650 Spadina Avenue,Barbeque; American (Traditional); Sandwiches
+Golden Thai Restaurant,105 Church Street,Thai
+Scaddabush Italian Kitchen & Bar,200 Front Street W.,Italian
+Mayrik,1580 Bayview Avenue,Middle Eastern; Mediterranean
+Cherry Street Bar-B-Que,275 Cherry Street,Barbeque
+Little Piggys - Authentic Korean BBQ,469 Bloor St W,Korean; Barbeque
+Pizzeria Libretto,545 King Street W,Pizza; Italian
+Bar + Karaoke Lounge,360 Yonge Street,Karaoke; Bars
+Umami Poke,1252 Yonge Street,Hawaiian; Seafood; Poke
+Chipotle Mexican Grill,323 Yonge St,Mexican; Fast Food
+Bloomers,873 Bloor Street W,Bakeries; Cafes; Vegan
+Daan Go Pastry Lab,202 Baldwin street,Macarons; Desserts; Bakeries
+Little Sister,2031 Yonge Street,Indonesian; Bars
+Moliceiro Restaurant,217 Ossington Avenue,Portuguese
+Il Ponte Cucina Italiana,625 Queen Street E,Italian
+Ajisen Ramen,332 Spadina Avenue,Ramen
+Fushimi,491 Church Street,Japanese; Sushi Bars
+Film Cafe by Eative,230 Augusta Avenue,Breakfast & Brunch; Coffee & Tea; Japanese
+Hong Kong Bistro Cafe,472 Dundas Street W,Chinese; Cafes
+The Cloak Bar,488 Wellington Street W,Cocktail Bars
+Over Easy Restaurant,56 Yonge Street,Breakfast & Brunch
+Crêpes à GoGo Spadina,750 Spadina Avenue,French; Cafes
+Taverna Mercatto,120 Bremner Boulevard,Italian
+Paramount Middle Eastern Kitchen,253 Yonge Street,Middle Eastern
+Brick Street Bakery,27 Trinity Street,Bakeries
+John & Sons Oyster House,56 Temperance Street,Seafood
+Pizza-Pide,949 Gerrard Street E,Pizza; Turkish
+Old School,800 Dundas Street W,Breakfast & Brunch; American (Traditional)
+Drake One Fifty,150 York Street,Cocktail Bars; Breakfast & Brunch; American (Traditional)
+iQ,181 Bay Street,Coffee & Tea; Juice Bars & Smoothies; Health Markets
+Nugateau Patisserie,717 Queen Street W,Bakeries; Desserts
+Soco Kitchen and Bar,75 Lower Simcoe Street,Bars; Canadian (New)
+Parka Food Co,424 Queen Street W,Comfort Food; Vegan; Burgers
+Craigs Cookies,1537 Queen Street W,Desserts
+Shoushin,3328 Yonge Street,Japanese; Sushi Bars
+Union Social Eatery,21 Saint Clair Avenue W,American (Traditional); Canadian (New)
+Baddies,679 Lansdowne Avenue,Coffee & Tea; Breakfast & Brunch; Cafes
+La Société,131 Bloor Street W,French
+Uncle Mikeys,1597 Dundas Street W,Korean
+Black Cat Espresso Bar,1104 College Street,Coffee & Tea; Sandwiches; Ice Cream & Frozen Yogurt
+Oretta,633 King Street W,Italian; Bars
+Rooster Coffee House,568 Jarvis Street,Coffee & Tea
+Café Pamenar,307 Augusta Avenue,Coffee & Tea
+La Palma,849 Dundas Street W,Italian
+CC Lounge & Whisky Bar,45 Front Street E,Lounges; Cocktail Bars; Whiskey Bars
+Danforth Pizza House,920 Danforth Avenue,Pizza
+Fusaros,294 Richmond Street E,Italian; Pizza
+Ki Modern Japanese + Bar,181 Bay Street,Japanese; Sushi Bars
+The Captains Boil,476 Yonge St,Seafood; Cajun/Creole; Asian Fusion
+Omg Oh My Gyro,155 John Street,Halal; Falafel; Fast Food
+Mallo,785 Bathurst Street,Coffee & Tea; Sandwiches
+Donatello Restaurant,37 Elm Street,Italian; Seafood
+Isabellas Boutique Restaurant,2066 Queen St East,Japanese; Breakfast & Brunch; Desserts
+Shangrila Tibetan & Asian Cuisine,1600 Queen Street W,Himalayan/Nepalese; Asian Fusion; Diners
+Kawa Sushi,451 Church Street,Sushi Bars; Japanese
+Roll & Roll by JC Mart,136 Simcoe Street,Sushi Bars
+Que Ling Restaurant,248 Boulton Avenue,Vietnamese
+The Green Wood,1402 Queen Street E,Breakfast & Brunch
+Echo Sushi,2036 Yonge Street,Sushi Bars; Japanese
+The Bata Shoe Museum,327 Bloor Street W,Museums
+Snakes & Lattes College,489 College Street,Bars; Cafes; Tabletop Games
+Athens Restaurant,707 Danforth Avenue,Greek
+La Cubana,392 Roncesvalles Avenue,Cuban
+Demen Bistro,500 Queen Street W,Vietnamese; Bars
+The Olde Yorke,96 Laird Drive,Seafood; Fish & Chips; British
+Bolets Burrito,134 Lower Sherbourne,Mexican
+MZaar Restaurant,668 Yonge Street,Lebanese; Mediterranean
+Marche Muvbox,181 Bay Street,Salad
+El Furniture Warehouse - Bloor St,410 Bloor St West,American (Traditional); Bars; Comfort Food
+Reds Midtown Tavern,382 Yonge Street,Wine Bars; Venues & Event Spaces; Argentine
+Biffs Bistro,4 Front Street E,French
+Rosalinda,133 Richmond Street W,Mexican; Vegan
+Pablo Cheesetart Canada,114 Dundas St W,Desserts
+Opus Restaurant,37 Prince Arthur Avenue,Wine Bars; Modern European
+SPIN Toronto,461 King St W,Cocktail Bars; Sports Clubs; American (Traditional)
+BeaverTails,145 Queen's Quay W,Desserts; Fast Food
+Famoso Neapolitan,386 Bloor Street W,Pizza
+Figo,295 Adelaide St W,Italian
+The County General,936 Queen Street W,Bars; Canadian (New); Breakfast & Brunch
+P.J. OBrien Irish Pub and Restaurant,39 Colborne St,Pubs
+Lee Chen Asian Bistro,813 Yonge Street,Dim Sum; Asian Fusion; Wine Bars
+Queen St Warehouse,232 Queen St,Bars; Comfort Food; American (Traditional)
+The Blake House,449 Jarvis Street,Pubs
+Cold Tea,60 Kensington Avenue,Bars
+Fresh on Crawford,894 Queen Street W,Vegan; Juice Bars & Smoothies; Burgers
+Kings Café,192 Augusta Avenue,Chinese; Vegetarian
+Emporium Latino,243 Augusta Ave,Latin American; Imported Food
+Lao Thai Restaurant,4 Gladstone Avenue,Thai; Laotian
+Ascari Enoteca,1111 Queen Street E,Italian; Bars
+Ristorante Sotto Sotto,120 Avenue Road,Italian
+Portici,6 Scollard Street,Italian; Pizza; Cafes
+Hey Lucy,295 King St. W.,Pizza; Breakfast & Brunch
+Peter Pan Bistro,373 Queen Street W,Canadian (New); Bistros
+Square Boy,875 Danforth Avenue,Burgers; Greek
+SU&BU,106 John St,Japanese; Poke
+"Ay Caramba, Eh",65-3540 Rutherford Road,Latin American; Mexican
+Falafel Plus,1065 Canadian Pl,Middle Eastern; Halal
+Hogtown Vegan,382 College Street,Vegan
+Golden Patty,187 Baldwin Street,Bakeries
+Dark Horse Espresso Bar,630 Queen Street E,Coffee & Tea
+Nobuya,285 Royal York Road,Japanese
+Fune Japanese Restaurant,100 Simcoe Street,Japanese; Sushi Bars
+Rikkochez,341 Danforth Avenue,Mediterranean; Middle Eastern
+Sorry Coffee,102 Bloor Street W,Coffee & Tea
+Douce France,820 Danforth Avenue,Chocolatiers & Shops; French
+Hacienda las Américas,424 College Street,Mexican
+Yueh Tung Restaurant,126 Elizabeth Street,Hakka; Breakfast & Brunch
+Espinas Restaurant,6080 Yonge St.,Mediterranean; Middle Eastern; Persian/Iranian
+Espinas Restaurant,6080 Yonge St.,Mediterranean; Persian/Iranian; Middle Eastern
+Mi Mi Restaurant,688 Gerrard Street E,Vietnamese
+Imonay House Restaurant,665 Bloor Street W,Korean
+Hapa Toronto,602 College Street,Japanese
+Giulietta,972 College Street W,Italian
+Paldo Gangsan,694 Bloor Street W,Korean
+Local 1794,1794 Danforth Avenue,Canadian (New); Gastropubs
+Mermaid Fish and Grill House,44 St Clair Avenue E,Seafood; Fish & Chips; Mediterranean
+7 Numbers Restaurant,516 Eglinton Avenue W,Italian
+Wallace Espresso,188 Wallace Avenue,Coffee & Tea; Cafes
+ONO Poké Bar,100 Western Battery Road,Hawaiian; Sushi Bars; Poke
+Her Chef,599 Bloor Street W,Asian Fusion; Poke; Chicken Shop
+Isaan Der,2961 Dundas Street W,Thai
+Yorkville Crepes,18 Yorkville Avenue,Creperies; Cafes; Desserts
+The Walton,607 College Street,Cocktail Bars
+Noodle King,123 Queen Street W,Chinese; Noodles
+Manic Coffee,426 College St,Coffee & Tea
+Page One,106 Mutual Street,Cafes; Bars; Venues & Event Spaces
+Five Doors North,2088 Yonge Street,Italian
+Daddyos Pasta & Salads,673 Spadina Avenue,Italian
+Imanishi Japanese Kitchen,1330 Dundas Street W,Japanese
+Chiado,864 College Street,Seafood; Portuguese
+9 Bars,46 St. Clair Avenue E,Cafes; Sandwiches; Desserts
+Akai Sushi,168 Major Street,Japanese; Sushi Bars
+Crown & Dragon Pub,890 Yonge Street,Pubs
+Storm Crow Manor,580 Church Street,Bars
+Library Bar,100 Front Street W,Lounges; Canadian (New); Diners
+Cafe de Melbourne,193 Church Street,Coffee & Tea
+Bampot House of Tea & Board Games,201 Harbord Street,Tea Rooms; Vegetarian
+RH Toronto Courtyard Café,Located in Yorkdale Shopping Centre,Breakfast & Brunch; Salad
+Rise & Dine Eatery,2714 St. Clair Avenue E,Breakfast & Brunch
+Saffron Spice Kitchen,459 Queen Street W,Indian; Soup; Sandwiches
+Baro,485 King Street W,Cocktail Bars; Chicken Wings; Latin American
+Pho Rua Vang Golden Turtle,125 Ossington Avenue,Vietnamese
+The Old Spaghetti Factory,54 The Esplanade,Italian
+Korean Grill House,214 Queen Street W,Korean
+Red Rocket Coffee,1364 Danforth Avenue,Desserts; Coffee & Tea
+Mustafa Turkish Pizza,866 Wilson Avenue,Turkish
+Bunners Bakeshop,244 Augusta Avenue,Bakeries; Vegan; Gluten-Free
+Flaming Stove,21 Davisville Avenue,Middle Eastern; Diners; Breakfast & Brunch
+Sea Witch Fish and Chips,636 Saint Clair Avenue W,Fish & Chips
+Gryfes Bagel Bakery,3421 Bathurst Street,Bagels
+Rendez-Vous,1408 Danforth Avenue,Ethiopian
+Caffino Ristorante,1185 King Street W,Italian
+Mr.Tonkatsu,548 Yonge Street,Japanese; Korean
+Udupi Palace,1460 Gerrard Street E,Indian; Vegetarian; Gluten-Free
+Jzs Pizza,232 Wellington Street W,Pizza; Italian
+Basil Box,441 Queen Street W,Vietnamese; Thai; Gluten-Free
+DAVIDsTEA,278A Queen Street W,Tea Rooms
+Kalendar,546 College Street,Italian; Breakfast & Brunch; French
+Ufficio,1214 Dundas Street W,Seafood; Vegetarian; Cocktail Bars
+Dönerland,217 Roncesvalles Avenue,Halal; Mediterranean; Kebab
+Ravi Soups,1128 Queen Street W,Soup
+Hailed Coffee,801 Gerrard Street E,Coffee & Tea; Desserts
+Hollywood Gelato,1640 Bayview Avenue,Ice Cream & Frozen Yogurt
+Jump Restaurant,18 Wellington Street W,Canadian (New); Wine Bars
+Knuckle Sandwich,969 Coxwell Avenue,Poutineries; Sandwiches
+Harvest Kitchen,124 Harbord Street,Canadian (New); Bars
+Sunny Morning,1392 Yonge Street,Breakfast & Brunch
+Labothéry,717 Bay Street,Bubble Tea
+Get Well,1181 Dundas Street W,Dive Bars
+Playa Cabana Cantina,2883 Dundas Street W,Mexican
+El Pocho Antojitos Bar,2 Follis Avenue,Bars; Breakfast & Brunch; Mexican
+Té,70 Ossington Avenue,Asian Fusion; Taiwanese; Korean
+Pray Tell,838 College Street,Cocktail Bars; Tapas/Small Plates; Breakfast & Brunch
+Barista & Chef,1006 Saint Clair Avenue W,Mediterranean
+Cauldron Ice Cream,502 Queen Street W,Ice Cream & Frozen Yogurt
+Pancers Original Deli,3856 Bathurst Street,Delis
+Aziza Cafe,870 College Street,Coffee & Tea; Juice Bars & Smoothies; Breakfast & Brunch
+Aroma Fine Indian Cuisine,287 King St W,Indian
+DonDon Izakaya,130 Dundas Street West,Japanese; Tapas Bars
+Pravda Vodka Bar,44 Wellington St E,Lounges; Russian
+Ritz Caribbean Foods,450 Yonge Street,Caribbean
+Lick It Gelato,250 Queens Quay W,Desserts; Ice Cream & Frozen Yogurt
+Handlebar,159 Augusta Avenue,Bars; Dance Clubs; Music Venues
+Ethiopian House Restaurant,4 Irwin Avenue,Ethiopian
+Cool Runnings Restaurant,146 Main Street,Caribbean
+Kasa Moto,115 Yorkville Avenue,Japanese; Sushi Bars
+Zuki Japanese Restaurant,2030 Eglinton Avenue W,Japanese; Sushi Bars
+The Danish Pastry House,65 Front Street W,Bakeries; Patisserie/Cake Shop
+Souv Like,708 Pape Avenue,Greek
+Bolan Thai Cuisine,709 Mount Pleasant Road,Thai; Desserts; Noodles
+The Only Cafe,972 Danforth Avenue,Pubs
+Leela Indian Food Bar,3108 Dundas Street W,Indian
+La Diperie,372 Danforth Avenue,Ice Cream & Frozen Yogurt
+Virtuous Pie,611 College Street,Pizza; Salad; Tapas/Small Plates
+Nandos Flame Grilled Chicken,832 Bay St.,Portuguese; South African
+Uncle Tetsus Japanese Bake,596 Bay Street,Desserts; Bakeries
+Loch & Quay,390 Queens Quay W,Canadian (New); Lounges
+Kid Lee,Located in First Canadian Place,Asian Fusion; Singaporean
+Bunas Kitchen,388 Richmond Street W,Sandwiches; Salad
+Sushi On Bloor,525 Bloor Street W,Sushi Bars
