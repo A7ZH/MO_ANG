@@ -49,5 +49,5 @@ locations = locations0 + locations1 + locations2 + locations3 + locations4 + loc
 df["Address(Full)"] = [loc.address for loc in locations]
 df["Coordinate"] = [(loc.latitude, loc.longitude) for loc in locations]
 df = df[["Name", "Cuisine", "Coordiante", "Address", "Address(Full)"]]
-df.to_csv("YELP_Final.csv", index=False)
+df.to_csv("YELP_Complete.csv", index=False)
 
