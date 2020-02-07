@@ -7,22 +7,14 @@ from selenium.webdriver.common.action_chains import ActionChains as AC
 import pandas as pd
 import time
 
-# Load and clean up locations, one representing address per neighbourhood in Totonto
-#   (entry 'Maple Leaf' & 'Rouge' miss addresses)
-df=pd.read_csv('locations.csv', encoding='iso-8859-1') \
-     .drop(columns=['Hood #'])
+# Load and clean up locations, each being the representing address of a neighbourhood in Totonto.
+#   Prob2: Entries 'Maple Leaf' & 'Rouge' miss addresses
+#   Prob2: Entries contain address components that are invalid to UberEats address search, e.g. Unit #
+#          use, err_ind=df.index[df['Repr Addr'].str.contains('error string')][0], to find index
+#          use, df['Repr Addr'][err_ind]=df['Repr Addr'][err_ind][:x]+df['Repr Addr'][err_ind][y:], to modify
+df=pd.read_csv('locations.csv', encoding='iso-8859-1').drop(columns=['Hood #'])
 df=df.loc[:, ~df.columns.str.contains('^Unnamed')]
 df=df.drop(df.index[df['Repr Addr'].isna()]).reset_index().drop(columns=['index'])
-# Row 128's address contains "#10" invalidated by UberEats address search. Thus modify 
-#   "3025 Kennedy Rd #10, Toronto, ON M1V 1S7, Canada" into
-#   "3025 Kennedy Rd, Toronto, ON M1V 1S7, Canada"
-err_ind=df.index[df['Repr Addr'].str.contains('#')][0] 
-df['Repr Addr'][err_ind]=df['Repr Addr'][err_ind][:15]+df['Repr Addr'][err_ind][19:]
-# Row 25's address contains "Unit 1" invalidated by UberEats address search. Thus modify
-#   "2943 Major MacKenzie Dr W Unit 1, Maple, ON L6A 1C6, Canada" into
-#   "2943 Major MacKenzie Dr W, Maple, ON L6A 1C6, Canada"
-err_ind=df.index[df['Repr Addr'].str.contains('Unit 1')][0]
-df['Repr Addr'][err_ind]=df['Repr Addr'][err_ind][:25]+df['Repr Addr'][err_ind][32:]
 
 # Add options for the Chrome browser.
 options=webdriver.ChromeOptions()
@@ -35,7 +27,7 @@ options.add_argument('--incognito')
 # Run the Chrome browser.
 driver=webdriver.Chrome(chrome_options=options)
 
-for addr in df['Repr Addr'][110:]:
+for addr in df['Repr Addr']:
   print(addr)
   # Navigate to "www.ubereats.com".
   driver.get("https://www.ubereats.com")
