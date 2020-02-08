@@ -40,7 +40,7 @@ for addr in df['Repr Addr']:
   #   address, interleaving with 1 second of wait time.
   for i in range(3):
     time.sleep(1)
-    if(search_bar.get_attribute('value')==addr): None
+    if(search_bar.get_attribute('value')==addr): pass
     else:
       AC(driver).key_down(Keys.COMMAND).send_keys('a').send_keys(Keys.DELETE)
       search_bar.send_keys(addr) 
@@ -57,7 +57,7 @@ for addr in df['Repr Addr']:
     time.sleep(4)
     figures=WebDriverWait(driver, 120).until(EC.visibility_of_all_elements_located(
                                             (By.XPATH, "//figure[@height='240']")))
-    if(len(figures)>L): None
+    if(len(figures)>L): pass
     else: break
   # Get all the listings when no more new listings show up by clicking "Show more". 
   listings = driver.find_elements_by_xpath("//figure[@height='240']/ancestor::a")
