@@ -742,7 +742,7 @@ https://www.ubereats.com/en-CA/toronto/food-delivery/beer-n-wings-sports-grill/U
 Opens at 10:30 AM;Maz Maz Shawarma;$$ • Middle Eastern;4.1;(17)
 https://www.ubereats.com/en-CA/toronto/food-delivery/maz-maz-shawarma/NbjguEZMQNqVuqaqRJflmw
 
-Opens at 12:00 PM;Chi mac;$;4.7;(173)
+Opens at 12:00 PM;Chi mac;$ • Korean • Fried Chicken;4.7;(173)
 https://www.ubereats.com/en-CA/toronto/food-delivery/chi-mac/0D44XF75RACDyrUGo_yyEQ
 
 Opens at 12:00 PM;L.A. Boil Seafood;$$ • Seafood • Asian Fusion;4.4;(66)
@@ -11266,7 +11266,7 @@ https://www.ubereats.com/en-CA/toronto/food-delivery/maz-maz-shawarma/NbjguEZMQN
 Opens at 11:00 AM;Moxie's (Courtneypark);$$ • Bar • Bar Food;4.2;(60)
 https://www.ubereats.com/en-CA/toronto/food-delivery/moxies-courtneypark/X3FUFAvnQVK7egmrkSMiJg
 
-Opens at 12:00 PM;Chi mac;$;4.7;(173)
+Opens at 12:00 PM;Chi mac;$ • Korean • Fried Chicken;4.7;(173)
 https://www.ubereats.com/en-CA/toronto/food-delivery/chi-mac/0D44XF75RACDyrUGo_yyEQ
 
 Opens at 12:00 PM;L.A. Boil Seafood;$$ • Seafood • Asian Fusion;4.4;(66)
@@ -12199,7 +12199,7 @@ https://www.ubereats.com/en-CA/toronto/food-delivery/beer-n-wings-sports-grill/U
 Opens at 10:30 AM;Maz Maz Shawarma;$$ • Middle Eastern;4.1;(17)
 https://www.ubereats.com/en-CA/toronto/food-delivery/maz-maz-shawarma/NbjguEZMQNqVuqaqRJflmw
 
-Opens at 12:00 PM;Chi mac;$;4.7;(173)
+Opens at 12:00 PM;Chi mac;$ • Korean • Fried Chicken;4.7;(173)
 https://www.ubereats.com/en-CA/toronto/food-delivery/chi-mac/0D44XF75RACDyrUGo_yyEQ
 
 Currently unavailable;Subway (290 The West Mall );$$ • American • Healthy • Sandwich • Salads • Fast Food;4.0;(95)
@@ -12520,7 +12520,7 @@ https://www.ubereats.com/en-CA/toronto/food-delivery/beer-n-wings-sports-grill/U
 Opens at 10:30 AM;Maz Maz Shawarma;$$ • Middle Eastern;4.1;(17)
 https://www.ubereats.com/en-CA/toronto/food-delivery/maz-maz-shawarma/NbjguEZMQNqVuqaqRJflmw
 
-Opens at 12:00 PM;Chi mac;$;4.7;(173)
+Opens at 12:00 PM;Chi mac;$ • Korean • Fried Chicken;4.7;(173)
 https://www.ubereats.com/en-CA/toronto/food-delivery/chi-mac/0D44XF75RACDyrUGo_yyEQ
 
 Opens at 12:00 PM;L.A. Boil Seafood;$$ • Seafood • Asian Fusion;4.4;(66)
@@ -17635,7 +17635,7 @@ https://www.ubereats.com/en-CA/toronto/food-delivery/subway-290-the-west-mall/ne
 Opens at 10:30 AM;Maz Maz Shawarma;$$ • Middle Eastern;4.1;(17)
 https://www.ubereats.com/en-CA/toronto/food-delivery/maz-maz-shawarma/NbjguEZMQNqVuqaqRJflmw
 
-Opens at 12:00 PM;Chi mac;$;4.7;(173)
+Opens at 12:00 PM;Chi mac;$ • Korean • Fried Chicken;4.7;(173)
 https://www.ubereats.com/en-CA/toronto/food-delivery/chi-mac/0D44XF75RACDyrUGo_yyEQ
 
 Opens at 12:00 PM;L.A. Boil Seafood;$$ • Seafood • Asian Fusion;4.4;(66)
@@ -21811,7 +21811,7 @@ https://www.ubereats.com/en-CA/toronto/food-delivery/beer-n-wings-sports-grill/U
 Opens at 10:30 AM;Maz Maz Shawarma;$$ • Middle Eastern;4.1;(17)
 https://www.ubereats.com/en-CA/toronto/food-delivery/maz-maz-shawarma/NbjguEZMQNqVuqaqRJflmw
 
-Opens at 12:00 PM;Chi mac;$;4.7;(173)
+Opens at 12:00 PM;Chi mac;$ • Korean • Fried Chicken;4.7;(173)
 https://www.ubereats.com/en-CA/toronto/food-delivery/chi-mac/0D44XF75RACDyrUGo_yyEQ
 
 Opens at 12:00 PM;L.A. Boil Seafood;$$ • Seafood • Asian Fusion;4.4;(66)
@@ -22477,7 +22477,7 @@ https://www.ubereats.com/en-CA/toronto/food-delivery/beer-n-wings-sports-grill/U
 Opens at 10:30 AM;Maz Maz Shawarma;$$ • Middle Eastern;4.1;(17)
 https://www.ubereats.com/en-CA/toronto/food-delivery/maz-maz-shawarma/NbjguEZMQNqVuqaqRJflmw
 
-Opens at 12:00 PM;Chi mac;$;4.7;(173)
+Opens at 12:00 PM;Chi mac;$ • Korean • Fried Chicken;4.7;(173)
 https://www.ubereats.com/en-CA/toronto/food-delivery/chi-mac/0D44XF75RACDyrUGo_yyEQ
 
 Opens at 12:00 PM;L.A. Boil Seafood;$$ • Seafood • Asian Fusion;4.4;(66)
@@ -23074,7 +23074,7 @@ https://www.ubereats.com/en-CA/toronto/food-delivery/pai-northern-thai-kitchen/T
 Opens at 1:00 PM;Beer N Wings Sports Grill;$$$ • Bar Food • Wings;4.1;(97)
 https://www.ubereats.com/en-CA/toronto/food-delivery/beer-n-wings-sports-grill/UN1LUms-SFGpogKAzcvGDg
 
-Opens at 12:00 PM;Chi mac;$;4.7;(173)
+Opens at 12:00 PM;Chi mac;$ • Korean • Fried Chicken;4.7;(173)
 https://www.ubereats.com/en-CA/toronto/food-delivery/chi-mac/0D44XF75RACDyrUGo_yyEQ
 
 Opens at 12:00 PM;L.A. Boil Seafood;$$ • Seafood • Asian Fusion;4.4;(66)
@@ -25165,7 +25165,7 @@ https://www.ubereats.com/en-CA/toronto/food-delivery/pai-northern-thai-kitchen/T
 Opens at 1:00 PM;Beer N Wings Sports Grill;$$$ • Bar Food • Wings;4.1;(97)
 https://www.ubereats.com/en-CA/toronto/food-delivery/beer-n-wings-sports-grill/UN1LUms-SFGpogKAzcvGDg
 
-Opens at 12:00 PM;Chi mac;$;4.7;(173)
+Opens at 12:00 PM;Chi mac;$ • Korean • Fried Chicken;4.7;(173)
 https://www.ubereats.com/en-CA/toronto/food-delivery/chi-mac/0D44XF75RACDyrUGo_yyEQ
 
 Opens at 12:00 PM;L.A. Boil Seafood;$$ • Seafood • Asian Fusion;4.4;(66)

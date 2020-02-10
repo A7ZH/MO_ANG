@@ -70,5 +70,6 @@ for addr in df['Repr Addr']:
     info2 = l.get_attribute('href')
     print(info1 + '\n' + info2 + '\n', file=output)
     print(info1 + '\n' + info2 + '\n')
+  output.close()
   driver.delete_all_cookies()
 driver.close()
