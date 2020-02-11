@@ -19,7 +19,7 @@ df=df.drop(df.index[df['Repr Addr'].isna()]).reset_index().drop(columns=['index'
 # Add options for the Chrome browser.
 options=webdriver.ChromeOptions()
 options.binary_location='/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
-options.add_argument('--headless')
+#options.add_argument('--headless')
 options.add_argument('--window-size=1920,1080')
 options.add_argument('--diable-extensions')
 options.add_argument('--diable-gpu')
@@ -29,11 +29,11 @@ driver=webdriver.Chrome(chrome_options=options)
 
 for addr in df['Repr Addr']:
   print(addr)
-  # Navigate to "www.ubereats.com".
-  driver.get("https://www.ubereats.com")
+  # Navigate to "www.foodora.ca".
+  driver.get("https://www.foodora.ca")
   # Wait for the address search bar to become clickable, and click it. 
-  search_bar=WebDriverWait(driver, 60).until(EC.element_to_be_clickable((By.XPATH,
-                                   "//input[@id='location-typeahead-home-input']")))
+  search_bar=WebDriverWait(driver, 60).until(EC.visibility_of_element_located((By.XPATH,
+      "//input[@class='restaurants-search-form__input restaurants__location__input ']")))
   search_bar.click()
   # Input target address into search bar. Sometimes the input get truncated or cleared
   #   as webpage refreshes during loading, thus we make 3 attempts to input the target
@@ -44,8 +44,14 @@ for addr in df['Repr Addr']:
     else:
       AC(driver).key_down(Keys.COMMAND).send_keys('a').send_keys(Keys.DELETE)
       search_bar.send_keys(addr) 
-  # Press return after inputting target address in to address search bar. Page jumps.
+  # Press return after inputting target address in to address search bar.
   search_bar.send_keys(Keys.RETURN)
+
+# Needa Click "Delivery" Button to proceed
+# Many neighbourhood representing addresses give no search results
+# Plot the representing address to see what they are like
+
+  '''
   # Wait for all the listing figures in the page to become visible.
   figures = WebDriverWait(driver, 120).until(EC.visibility_of_all_elements_located((By.XPATH, 
                                                                  "//figure[@height='240']")))
@@ -71,5 +77,6 @@ for addr in df['Repr Addr']:
     print(info1 + '\n' + info2 + '\n', file=output)
     print(info1 + '\n' + info2 + '\n')
   output.close()
+  '''
   driver.delete_all_cookies()
 driver.close()
