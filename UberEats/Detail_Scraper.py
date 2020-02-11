@@ -25,7 +25,7 @@ output = open('coordinates.txt', 'a')
 print("==========" + str(time.time())+"========", file=output)
 error = open('coordinates_error_url.txt', 'a')
 print("==========" + str(time.time())+"========", file=error)
-for url in df['URL'][770:771]:
+for url in df['URL']:
   driver.get(url)
   print(url)
   try:

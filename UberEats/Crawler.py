@@ -35,7 +35,7 @@ for addr in df['Repr Addr']:
   search_bar=WebDriverWait(driver, 60).until(EC.element_to_be_clickable((By.XPATH,
                                    "//input[@id='location-typeahead-home-input']")))
   search_bar.click()
-  # Input target address into search bar. Sometimes the input get truncated or cleared
+  # Input target address into search bar. Sometimes the input gets truncated or cleared
   #   as webpage refreshes during loading, thus we make 3 attempts to input the target
   #   address, interleaving with 1 second of wait time.
   for i in range(3):
