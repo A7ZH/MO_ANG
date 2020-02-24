@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.action_chains import ActionChains as AC
+import time
 
 # Load data. 
 df = pd.read_csv('Crawler_Output_Cleaned.csv', encoding='utf-8-sig')
@@ -21,7 +21,9 @@ options.add_argument('--incognito')
 driver=webdriver.Chrome(chrome_options=options)
 
 output = open('coordinates.txt', 'a')
+print("==========" + str(time.time())+"========", file=output)
 error = open('coordinates_error_url.txt', 'a')
+print("==========" + str(time.time())+"========", file=error)
 for url in df['URL']:
   driver.get(url)
   print(url)

@@ -3,10 +3,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.action_chains import ActionChains as AC
 import pandas as pd
 import time
-
 
 # Load and clean up locations, each being the representing address of a neighbourhood in Totonto.
 #   Prob1: What's the minumally necessary encoding needed for data in location.csv?
@@ -38,15 +36,18 @@ for addr in df['Repr Addr']:
   # Wait for the address search bar to become clickable, and click it. 
   search_bar=WebDriverWait(driver, 60).until(EC.element_to_be_clickable((By.XPATH,
                                    "//input[@id='location-typeahead-home-input']")))
-  search_bar.click()
+
   # Input target address into search bar. Sometimes the input gets truncated or cleared
   #   as webpage refreshes during loading, thus we make 3 attempts to input the target
   #   address, interleaving with 1 second of wait time.
   for i in range(3):
+    search_bar.click()
     time.sleep(1)
     if(search_bar.get_attribute('value')==addr): pass
     else:
-      AC(driver).key_down(Keys.COMMAND).send_keys('a').send_keys(Keys.DELETE)
+      while(search_bar.get_attribute('value')!=''):
+        search_bar.send_keys(Keys.ALT + Keys.RIGHT)
+        search_bar.send_keys(Keys.BACKSPACE)
       search_bar.send_keys(addr) 
   # Press return after inputting target address in to address search bar. Page jumps.
   search_bar.send_keys(Keys.RETURN)
