@@ -1,0 +1,28 @@
+West Humber-Clairville ; 7498 Sigsbee Dr, Mississauga, ON L4T 3S6
+Mount Olive-Silverstone-Jamestown ; 84 Stevenson Rd, Etobicoke, ON M9V 2B5, Canada
+Thistletown-Beaumond Heights ; 25 Sandhill Dr, Etobicoke, ON M9V 2Y3, Canada
+Rexdale-Kipling ; 145 Clearbrooke Cir, Etobicoke, ON M9W 2G2, Canada
+Elms-Old Rexdale ; 35 Shendale Dr, Etobicoke, ON M9W 2B4, Canada
+Willowridge-Martingrove-Richview ; 2 Holbeach Rd, Etobicoke, ON M9W 3K3, Canada
+Humber Summit ; 166 Toryork Dr, North York, ON M9L 1X6, Canada
+Humbermede ; 3 Imogene Ave, North York, ON M9M 1N5, Canada
+Pelmo Park-Humberlea ; 86 Aura Lea Blvd, North York, ON M9M 1K5, Canada
+Glenfield-Jane Heights ; 2943 Major MacKenzie Dr W, Maple, ON L6A 1C6, Canada
+Parkwoods Donalda ; 65 Avonwick Gate, North York, ON M3A 2M8, Canada
+Pleasant View ; 175 Brian Dr, North York, ON M2J 3Y8, Canada
+L'Amoreaux ; 25 Brookmill Blvd, Scarborough, ON M1W 2L5, Canada
+Tam O'Shanter-Sullivan ; 3410 Sheppard Ave E, Scarborough, ON M1T 3K4, Canada
+Cliffcrest ; 3049 Kingston Rd, Scarborough, ON M1M 1P1, Canada
+Dorset Park ; 1280 Kennedy Rd, Scarborough, ON M1P 2L5, Canada
+Bendale ; 1005 Brimley Rd, Scarborough, ON M1P 3E9, Canada
+Agincourt South-Malvern West ; 105 Invergordon Ave, Scarborough, ON M1S 2Z1, Canada
+Agincourt North ; 5001 Finch Ave E, Scarborough, ON M1S 5J9, Canada
+Milliken ; 3025 Kennedy Rd, Toronto, ON M1V 1S7, Canada
+Malvern ; 31 Tapscott Rd, Scarborough, ON M1B 4Y7, Canada
+Centennial Scarborough ; 186 Centennial Rd, Scarborough, ON M1C 1Z9, Canada
+Highland Creek ; 1 Spall Ct, Scarborough, ON M1C 0B1, Canada
+Morningside ; 2862 Ellesmere Rd, Scarborough, ON M1E 4B8, Canada
+West Hill ; 121 Homestead Rd, Scarborough, ON M1E 3S1, Canada
+Woburn ; 840 Markham Rd, Scarborough, ON M1H 2Y2, Canada
+Scarborough Village ; 3493 Kingston Rd, Scarborough, ON M1M 1R4, Canada
+Guildwood ; 59 Toynbee Trail, Scarborough, ON M1E 1G1, Canada

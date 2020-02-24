@@ -7,11 +7,15 @@ from selenium.webdriver.common.action_chains import ActionChains as AC
 import pandas as pd
 import time
 
+
 # Load and clean up locations, each being the representing address of a neighbourhood in Totonto.
-#   Prob1: Entries 'Maple Leaf' & 'Rouge' miss addresses, thus being removed.
-#   Prob2: Entries contain address components that are invalid to UberEats address search, e.g. Unit #
-#          use, err_ind=df.index[df['Repr Addr'].str.contains('error string')][0], to find the index.
-#          use, df['Repr Addr'][err_ind]=df['Repr Addr'][err_ind][:x]+df['Repr Addr'][err_ind][y:], to modify.
+#   Prob1: What's the minumally necessary encoding needed for data in location.csv?
+#   Prob2: "Hood #" column is unecessary; removed.
+#   Prob3: "Unamed: 3" column is unecessary; removed.
+#   Prob4: Entries "Maple Leaf" & "Rouge" miss addresses; removed / manually fill in.
+#   Prob5: Entries contain address components that are invalid to UberEats address search, e.g. Unit #
+#          use err_ind=df.index[df['Repr Addr'].str.contains('error string')][0] to find the index.
+#          use df['Repr Addr'][err_ind]=df['Repr Addr'][err_ind][:x]+df['Repr Addr'][err_ind][y:] to modify.
 df=pd.read_csv('locations.csv', encoding='iso-8859-1').drop(columns=['Hood #'])
 df=df.loc[:, ~df.columns.str.contains('^Unnamed')]
 df=df.drop(df.index[df['Repr Addr'].isna()]).reset_index().drop(columns=['index'])
@@ -62,7 +66,7 @@ for addr in df['Repr Addr']:
   # Get all the listings when no more new listings show up by clicking "Show more". 
   listings = driver.find_elements_by_xpath("//figure[@height='240']/ancestor::a")
   # Create output file with the name being the Hood Name. 
-  filename = "UberEats_Crawler_Output/" + df['Hood Name'][df.index[df['Repr Addr']==addr].values[0]]
+  filename = "Crawler_Output/" + df['Hood Name'][df.index[df['Repr Addr']==addr].values[0]]
   output = open(filename,'w+')
   # For each listing, scrape its text information and link for details page
   for l in listings:
