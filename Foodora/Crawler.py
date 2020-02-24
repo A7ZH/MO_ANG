@@ -41,9 +41,9 @@ for addr in df['Repr Addr'][5:]:
   # Wait for the address search bar to become clickable, and click it. 
   search_bar=WebDriverWait(driver, 60).until(EC.visibility_of_element_located((By.XPATH,
       "//input[@class='restaurants-search-form__input restaurants__location__input ']")))
-  # Type in target address into the search bar. Sometimes the input get truncated or cleared
+  # Type the target address into the search bar. Sometimes the address typed in get truncated or cleared
   #   as the webpage refreshes itself while loading, thus we make 3 attempts to type in the 
-  #   target address, interleaving with 1 second of wait time.
+  #   target address.
   for i in range(3):
     search_bar.click()
     if(search_bar.get_attribute('value')==addr): pass

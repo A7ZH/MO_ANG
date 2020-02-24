@@ -21,7 +21,7 @@ df=df.drop(df.index[df['Repr Addr'].isna()]).reset_index().drop(columns=['index'
 # Add options for the Chrome browser.
 options=webdriver.ChromeOptions()
 options.binary_location='/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
-options.add_argument('--headless')
+#options.add_argument('--headless')
 options.add_argument('--window-size=1920,1080')
 options.add_argument('--diable-extensions')
 options.add_argument('--diable-gpu')
@@ -32,25 +32,27 @@ driver=webdriver.Chrome(chrome_options=options)
 for addr in df['Repr Addr']:
   print(addr)
   # Navigate to "www.ubereats.com".
-  driver.get("https://www.ubereats.com")
+  driver.get("https://www.doordash.com")
   # Wait for the address search bar to become clickable, and click it. 
   search_bar=WebDriverWait(driver, 60).until(EC.element_to_be_clickable((By.XPATH,
-                                   "//input[@id='location-typeahead-home-input']")))
+                                   "//input[@aria-label='Your delivery address']")))
 
   # Type the target address into search bar. Sometimes the address typed in gets truncated or cleared
-  #   as webpage refreshes itself while loading, thus we make 3 attempts to type in the target
-  #   address, interleaving with 1 second of wait time.
+  #   as the webpage refreshes itself while loading, thus we make 3 attempts to type in the target
+  #   address.
   for i in range(3):
     search_bar.click()
-    time.sleep(1)
     if(search_bar.get_attribute('value')==addr): pass
     else:
       while(search_bar.get_attribute('value')!=''):
         search_bar.send_keys(Keys.ALT + Keys.RIGHT)
         search_bar.send_keys(Keys.BACKSPACE)
       search_bar.send_keys(addr) 
-  # Press return after inputting target address in to address search bar. Page jumps.
-  search_bar.send_keys(Keys.RETURN)
+  time.sleep(1)
+  # Press the "->" button after typing the target address; jumps to listing page.
+  driver.find_element_by_xpath("//button[@aria-label='Find Restaurants']").click()
+  time.sleep(5)
+  '''
   # Wait for all the listing figures in the page to become visible.
   figures = WebDriverWait(driver, 120).until(EC.visibility_of_all_elements_located((By.XPATH, 
                                                                  "//figure[@height='240']")))
@@ -76,5 +78,6 @@ for addr in df['Repr Addr']:
     print(info1 + '\n' + info2 + '\n', file=output)
     print(info1 + '\n' + info2 + '\n')
   output.close()
+  '''
   driver.delete_all_cookies()
 driver.close()
