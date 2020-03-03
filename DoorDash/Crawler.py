@@ -29,7 +29,7 @@ options.add_argument('--incognito')
 # Run the Chrome browser.
 driver=webdriver.Chrome(chrome_options=options)
 
-for addr in df['Repr Addr']:
+for addr in df['Repr Addr'][122:]:
   print(addr)
   # Navigate to "www.ubereats.com".
   driver.get("https://www.doordash.com")
@@ -51,23 +51,20 @@ for addr in df['Repr Addr']:
   time.sleep(1)
   # Press the "->" button after typing the target address; jumps to listing page.
   driver.find_element_by_xpath("//button[@aria-label='Find Restaurants']").click()
-  time.sleep(5)
-  '''
-  # Wait for all the listing figures in the page to become visible.
-  figures = WebDriverWait(driver, 120).until(EC.visibility_of_all_elements_located((By.XPATH, 
-                                                                 "//figure[@height='240']")))
-  # Keep clicking "Show more" until no more new figures appear.
-  while True:
-    L=len(figures)
-    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH,
-                                        "/html/body/div/div/div[3]/button"))).click()
+  # Keep scrolling to the end of the webpage until no more new listings appear.
+  while True: 
+    # Wait for all the listings in the page to present in HTML DOM.
+    listings = WebDriverWait(driver, 120).until(EC.presence_of_all_elements_located((By.XPATH, 
+                                                         "//a[@data-anchor-id='StoreCard']")))
+    # Scrape the number of listings suggested on the webpage to be used as stopping condition for scrolling.
+    L = int(WebDriverWait(driver, 120).until(EC.presence_of_element_located((By.XPATH,
+                     "//span[@class='sc-bdVaJa hQDtnE']"))).text.split(' STORES NEARBY')[0])
+    if(abs(len(listings)-L)/L<=0.05): break
+    # Scroll to the end of the webpage, trigging more listings to be loaded. 
+    driver.find_element_by_tag_name('body').send_keys(Keys.END)
     time.sleep(4)
-    figures=WebDriverWait(driver, 120).until(EC.visibility_of_all_elements_located(
-                                            (By.XPATH, "//figure[@height='240']")))
-    if(len(figures)>L): pass
-    else: break
-  # Get all the listings when no more new listings show up by clicking "Show more". 
-  listings = driver.find_elements_by_xpath("//figure[@height='240']/ancestor::a")
+    # Scroll to the beginning of the webpate, preparing for re-triggering more listings to be loaded.
+    driver.find_element_by_tag_name('body').send_keys(Keys.HOME)
   # Create output file with the name being the Hood Name. 
   filename = "Crawler_Output/" + df['Hood Name'][df.index[df['Repr Addr']==addr].values[0]]
   output = open(filename,'w+')
@@ -78,6 +75,6 @@ for addr in df['Repr Addr']:
     print(info1 + '\n' + info2 + '\n', file=output)
     print(info1 + '\n' + info2 + '\n')
   output.close()
-  '''
   driver.delete_all_cookies()
 driver.close()
+
