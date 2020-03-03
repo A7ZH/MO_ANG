@@ -362,7 +362,7 @@ None https://www.doordash.com/store/boneyard-grill-vaughan-60495/
 (43.7726, -79.4445887) | Booster Juice, Bathurst & Finch, 4915 Bathurst St, North York, ON M2R 1N2, Canada
 (43.6397949, -79.4236084) | 128 Atlantic Ave, Toronto, ON M6K 1X9, Canada
 (43.7775798, -79.3471272) | 1800 Sheppard Ave E Unit 2015 - A, North York, ON M2J 5A7, Canada
-t Clair Ave W, Toronto, ON M6E 1B4
+(43.611163, -79.581533) | Booster Juice, Creekside Crossings, 1510 Dundas St E #2, Mississauga, ON L4X 1L4, Canada
 (43.8532894, -79.2590868) | Booster Juice, 7700 Markham Rd Unit MB, Markham, ON L3S 4S1, Canada
 (43.651045, -79.3769068) | Booster Juice, 106 Front St E Unit 100, Toronto, ON M5A 4K8, Canada
 (43.6459076, -79.3900111) | 200 Wellington St W #380, Toronto, ON M5V 3C7, Canada
