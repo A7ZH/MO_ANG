@@ -21,7 +21,7 @@ df=df.drop(df.index[df['Repr Addr'].isna()]).reset_index().drop(columns=['index'
 # Add options for the Chrome browser.
 options=webdriver.ChromeOptions()
 options.binary_location='/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
-#options.add_argument('--headless')
+options.add_argument('--headless')
 options.add_argument('--window-size=1920,1080')
 options.add_argument('--diable-extensions')
 options.add_argument('--diable-gpu')
@@ -29,7 +29,7 @@ options.add_argument('--incognito')
 # Run the Chrome browser.
 driver=webdriver.Chrome(chrome_options=options)
 
-for addr in df['Repr Addr']:
+for addr in df['Repr Addr'][122:]:
   print(addr)
   # Navigate to "www.ubereats.com".
   driver.get("https://www.skipthedishes.com/")
@@ -47,41 +47,41 @@ for addr in df['Repr Addr']:
         search_bar.send_keys(Keys.ALT + Keys.RIGHT)
         search_bar.send_keys(Keys.BACKSPACE)
       search_bar.send_keys(addr)
-  time.sleep(1)
-  # Click the dropdown list for the target address 
-  driver.find_element_by_xpath("//div[@data-cy='OptionListItem']").click()
-  time.sleep(2)
+  # Click the entry for the target address in the drop-down list.
+  WebDriverWait(driver,60).until(EC.element_to_be_clickable((By.XPATH,
+                           "//div[@data-cy='OptionListItem']"))).click()
+  # Wait for the mini map to be visible.
+  WebDriverWait(driver,60).until(EC.visibility_of_element_located((By.XPATH,
+      "//*[contains(text(), 'Edit Pin Location')]/preceding-sibling::div")))
+  # CLick the "Find Restaurants Nearby" button below the mini map. Page jumps. 
+  WebDriverWait(driver, 60).until(EC.element_to_be_clickable((By.XPATH,
+                   "//button[@data-cy='AddressEntry-Button']"))).click()
 
-  # Click find restaurants nearby to jump 
-  '''
-  # Press return after inputting target address in to address search bar. Page jumps.
-  driver.find_element_by_xpath("//button[@data-cy='AddressEntry-Button']").click()
-  time.sleep(5)
-  # Wait for all the listing figures in the page to become visible.
-  figures = WebDriverWait(driver, 120).until(EC.visibility_of_all_elements_located((By.XPATH, 
-                                                                 "//figure[@height='240']")))
-  # Keep clicking "Show more" until no more new figures appear.
-  while True:
-    L=len(figures)
-    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH,
-                                        "/html/body/div/div/div[3]/button"))).click()
-    time.sleep(4)
-    figures=WebDriverWait(driver, 120).until(EC.visibility_of_all_elements_located(
-                                            (By.XPATH, "//figure[@height='240']")))
-    if(len(figures)>L): pass
-    else: break
-  # Get all the listings when no more new listings show up by clicking "Show more". 
-  listings = driver.find_elements_by_xpath("//figure[@height='240']/ancestor::a")
+  # Wait for all the listing in the page to present in HTML DOM.
+  listings = WebDriverWait(driver, 120).until(EC.presence_of_all_elements_located((By.XPATH, 
+                                     "//li[@class='styles__Wrapper-sc-1jx0fzp-0 dcHIUz']")))
+  # Keep scrolling to the end of the webpage until no more new listings appear.
+  while True: 
+    L=len(listings)
+    # Scroll to the end of the webpage, trigging more listings to be loaded. 
+    driver.find_element_by_tag_name('body').send_keys(Keys.END)
+    time.sleep(2)
+    # Scroll to the beginning of the webpate, preparing for re-triggering more listings to be loaded.
+    driver.find_element_by_tag_name('body').send_keys(Keys.HOME)
+    listings = WebDriverWait(driver, 120).until(EC.presence_of_all_elements_located((By.XPATH,
+                                       "//li[@class='styles__Wrapper-sc-1jx0fzp-0 dcHIUz']")))
+    if(len(listings)==L): break
+  print(L)
   # Create output file with the name being the Hood Name. 
   filename = "Crawler_Output/" + df['Hood Name'][df.index[df['Repr Addr']==addr].values[0]]
   output = open(filename,'w+')
   # For each listing, scrape its text information and link for details page
   for l in listings:
     info1 = l.text.replace("\n", ";")
-    info2 = l.get_attribute('href')
+    info2 = l.find_element_by_xpath("div/a").get_attribute('href')
     print(info1 + '\n' + info2 + '\n', file=output)
     print(info1 + '\n' + info2 + '\n')
   output.close()
-  '''
   driver.delete_all_cookies()
 driver.close()
+
